@@ -1,0 +1,137 @@
+sNo,course_code,course_name,semester,student_count
+Tst24,23CSE301,Operating Systems,3,1022
+Tst09,23BSCSMA31,Discrete Mathematics and Graph Theory,3,959
+Tst08,23CSE304,Database Management Systems,3,932
+Tst26,23CSE303,Software Engineering,3,606
+Tst38,22HSS101,Business Communication and Storytelling,5,544
+Tst06,23CSE302,Computer Organisation and Architecture,3,425
+Tst33,23CSE514,Advanced Machine Learning,5,383
+Tst14,23CSE305,Foundations of Cloud Computing,3,345
+Tst72,23CSE150,Leadership and Negotiation Skills,5,327
+Tst103,22CSE349,Essentials of Software Quality Assurance,7,307
+Tst104,22CSE517,Essentials of Internet of Things,7,307
+Tst60,23CSE506,Essentials of Machine Learning,5,299
+Tst12,23CSE316,Essentials of Data Warehousing and Data Mining,3,280
+Tst22,23CSE313,Machine Learning,3,280
+Tst45,23CSE226,Computer Vision and Image Processing,5,267
+Tst61,23CSE116,Essentials of Deep Learning,5,267
+Tst32,23CSE503,Advanced Computer Networks,5,238
+Tst64,23CSE505,Fundamentals of Artificial Intelligence,5,238
+Tst01,23AIMLDE21,Applications of AI,3,217
+Tst67,23BSCSMA51,Inferential Statistics,5,201
+Tst87,22CSE226,Computer Vision and Image Processing,7,193
+Tst98,22CSE544,Data Streaming and Analysis,7,193
+Tst128,22CSEDE14,RestAPIs using Spring Boot Framework,7,189
+Tst115,22CSEDE15,Frontend Framework using Angular and React,7,185
+Tst83,23AIMLDE22,REINFORCEMENT LEARNING,5,174
+Tst107,22AIMLDE24,Elective -4 - Speech Recognition and Converstational Systems,7,163
+Tst108,22AIMLDE25,Elective -5 - ESG Analytics,7,163
+Tst36,23CSEDE11,Backend Programming,5,155
+Tst53,23CSEDE21,Data modelling with NOSQL Database,5,147
+Tst39,22HSS204,Business Communication and Presentation Skills,5,125
+Tst100,22CSEDE25,Data Visualization using Tableau,7,118
+Tst101,22CSEDE24,Data Analytics using SQL,7,118
+Tst02,23CSE306,Artificial Intelligence,3,117
+Tst37,23CSE513,Bigdata Analytics,5,87
+Tst48,23CSE515,Cloud Computing and Virtualization,5,87
+Tst82,23AIMLDE12,BLOCKCHAIN TECHNOLOGIES FOR DATA SCIENCE,5,72
+Tst135,22CSE325,Spark for data science,7,71
+Tst136,22DSDE14,Social Medial Analytics,7,71
+Tst69,23CSE518,Industrial AI,5,71
+Tst76,24CSE542,Natural Language Processing,5,71
+Tst86,22DSDE15,Bigdata Analytics on cloud,7,71
+Tst102,22AIDE35,Deep Learning in Genomics,7,67
+Tst130,22CSE562,Recommender Systems,7,67
+Tst131,22AIDE34,Reinforcement Learning,7,67
+Tst88,22CSE225,Computer Vision,7,67
+Tst77,23CSE516,Python for Data Science,5,66
+Tst03,23CSE312,Cloud Security,3,64
+Tst07,24CSE320,Data Warehousing and Data Mining,3,64
+Tst127,22CSE311,Penetration Testing,7,64
+Tst15,24BSCSMA32,Inferential Statistics,3,64
+Tst25,23CSE311,Scripting for Hackers,3,64
+Tst28,23CSE310,Web Application Security,3,64
+Tst34,23CSE504,Agile Software Development,5,64
+Tst78,23CSE502,Software Testing,5,64
+Tst81,23CTISDE512,Essentials of Big Data Analytics,5,64
+Tst95,22CSE508,Cyber Risk Analysis,7,64
+Tst96,22CSE509,Cyber security Administration,7,64
+Tst132,22CSE503,Software Project Management,7,63
+Tst133,22CSE572,Software Architecture and Design,7,63
+Tst80,23CSE507,Storage Management and Data Center,5,63
+Tst73,23CSE512,Microprocessor and  Microcontrollers,5,61
+Tst41,23CSBSHS51,Business communication and Value Science -3,5,60
+Tst44,23CSBS503,Cloud Computing,5,60
+Tst49,23CSE522,Cyber Risk Analysis,5,60
+Tst56,23CSE520,Digital Forensics,5,60
+Tst57,23CSE521,Data Protection and Data Security,5,60
+Tst58,23CSE523,Disaster Recovery,5,60
+Tst62,23CSBS1K51,Essence of Indian Traditional Knowledge,5,60
+Tst66,23CSBSMS51,Funtamentals of Management,5,60
+Tst74,23CSBS502,Machine Learning,5,60
+Tst79,23CSBS501,S/W DESIGN with UML,5,60
+Tst04,24CSE321,Communication Networks,3,58
+Tst120,22CSE555,IoT System Design,7,58
+Tst29,23CSE309,Internet of Things,3,58
+Tst90,22CSE222,Communication Protocol,7,58
+Tst05,23CSBS304,Computational Statistics,3,57
+Tst13,23CSBS301,Formal Languages and Automat Theory,3,57
+Tst23,23CSBS303,Object Oriented Programming,3,57
+Tst30,23CSBS302,Computer Organisation and Architecture,3,57
+Tst31,23CSBS305,Software Engineering,3,57
+Tst106,22CSBS503,Elective  IV:  Advanced Social Text and Media Analytics,7,54
+Tst117,22CSBS218,Financial Management,7,54
+Tst121,22CSBS114,IT Project Management,7,54
+Tst122,2CSBS115,IT Workshop Sky/Mat Lab,7,54
+Tst137,22CSBS506,Service science and Service opearational management,7,54
+Tst140,22CSBS508,Usability Design Of Software Applications,7,54
+Tst109,22CSDE15,Elective-5 Defensive Cyber Security Techniques,7,50
+Tst111,22CSDE14,Elective-4 Wireless Security,7,50
+Tst27,24CSE322,Software engineering and project management,3,46
+Tst138,22SEDE25,UI/UX Design Principles,7,44
+Tst50,23CSDE12,Cryptography,5,44
+Tst97,22SEDE24,Data Modelling with NoSQL Databases,7,44
+Tst93,22CSE588,Cyber security and Risk Analysis,7,40
+Tst94,22CSE236,Cyber Threats and Attack Vectors,7,40
+Tst126,22IOTDE15,Predictive Models in IOT using Machine Learning,7,39
+Tst47,23CSBSDE511,Conversastional System,5,39
+Tst85,22IOTDE14,Business Intelligence for IOT,7,39
+Tst11,23CSE314,Essentials of Big Data,3,37
+Tst16,23AIDEDE11,Intelligent Systems,3,37
+Tst42,23SEDE11,Cloud Computing and Virtualization,5,37
+Tst54,23AIDE21,Data mining,5,36
+Tst55,22DSDE11,Data Visiualization using Tableau,5,35
+Tst70,24AIDE11,Image Processing,5,35
+Tst52,23IOTDE11,Data warehousing and data mining,5,34
+Tst63,23CSE510,Ethical Hacking,5,34
+Tst71,23CSE511,Information Security,5,34
+Tst19,24CSE318,Introduction to Cyber Physical Systems,3,32
+Tst139,22CSE331,UI/UX Design Principles,7,31
+Tst35,22DSDE21,Artificial Intelligence,5,31
+Tst91,22CSE228,Cross Platform Application,7,31
+Tst113,22AIDEDE35,Geographical information systems GIS,7,30
+Tst116,22CSBSE73,GenAI,7,30
+Tst129,22AIDEDE14,Recommender system,7,30
+Tst65,23CSE508,Fundamental of IoS Development in Swift,5,30
+Tst75,23CSE509,Mobile Computing,5,30
+Tst125,22CTMADE751,Mobile game app development platforms,7,27
+Tst18,24CSE324,Introduction to Blockchain Technology,3,27
+Tst20,24CSE323,Introduction To Cryptography,3,27
+Tst46,23SEDE21,Communication Protocol,5,27
+Tst68,23IOTDE21,IOT Platform Design,5,27
+Tst84,22CTMADE741,Advanced Android Application Development,7,27
+Tst10,23AIMLDE11,Elective -1 - IOT,3,26
+Tst105,22CSBS211,Elective III:  Cryptology,7,24
+Tst123,22CTMADE752,Introduction to Blockchain Technology,7,24
+Tst92,22CTMADE742,Cloud Data Engineer,7,24
+Tst40,23CSBSDE513,Business Strategy,5,21
+Tst51,23AIDEDE12,Domain Sepcific AI,5,21
+Tst118,22CTISDE741,Infrastructure Solution on Cloud,7,20
+Tst119,22SEDE15,Infrastructure Solution on Cloud,7,20
+Tst124,22CTISDE751,IT Governance  Risk and information security management,7,20
+Tst89,22SEDE14,Containers and Dockers,7,20
+Tst114,22IOTDE25,Fog Computing,7,19
+Tst134,22IOTDE24,Smart Contracts,7,19
+Tst59,23CSDE22,Data Analytics and Machine Learning for Cyber security  Elective-2,5,16
+Tst110,22CSDE25,Elective-5 Speech recognition,7,14
+Tst112,22CSDE24,Elective-4 Applications of AI,7,14

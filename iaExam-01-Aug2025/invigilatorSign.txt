@@ -1,0 +1,4194 @@
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 101 (A: 31, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst60: Essentials of Machine Learning, IC Name: Dr. A.Vijayakumar, Invigilator Name: Dr. A. Priyadharshini [Assistant Professor] 9025912352 (31 Students)
+
+[Seat B]
+Tst65: Fundamental of IoS Development in Swift, IC Name: Dr. Karthik Ragunath, Invigilator Name: Dr. A. Rajesh [Professor] 9629730168 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 103 (A: 29, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst13: Formal Languages and Automat Theory, IC Name: Dr. Thiruvannamalai Sivasankar P, Invigilator Name: Dr. A Suresh Kumar [Professor] 8438656467 (29 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 108 (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst60: Essentials of Machine Learning, IC Name: Dr. A.Vijayakumar, Invigilator Name: Mr. Abhishek K S [Office Admin] 991619581 (30 Students)
+
+[Seat B]
+Tst22: Machine Learning, IC Name: Dr. Jayashri Abhayakumar Inchal, Invigilator Name: Mr. Abhishek M [Lab Instructor] 7795853548 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 110 (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst60: Essentials of Machine Learning, IC Name: Dr. A.Vijayakumar, Invigilator Name: Ms. Agashini [Assistant Professor] 9591051078 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 113A (A: 31, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst60: Essentials of Machine Learning, IC Name: Dr. A.Vijayakumar, Invigilator Name: Ms. Aishwarya R [Assistant Professor] 9535393751 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 113B (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst60: Essentials of Machine Learning, IC Name: Dr. A.Vijayakumar, Invigilator Name: Dr. Ajay Kumar Singh [Professor] 8791894008 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 113C (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst60: Essentials of Machine Learning, IC Name: Dr. A.Vijayakumar, Invigilator Name: Ms. Ambili K N [Assistant Professor] 8129055842 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 115A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst06: Computer Organisation and Architecture, IC Name: Mr. Basavaraju D R, Invigilator Name: Mr. Ananda V M [Lab Instructor] 9741524219 (35 Students)
+
+[Seat B]
+Tst42: Cloud Computing and Virtualization, IC Name: Dr. Anthoni Raj, Invigilator Name: Mr Anandhu. S [English] 8921148058 (09 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 115B (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst06: Computer Organisation and Architecture, IC Name: Mr. Basavaraju D R, Invigilator Name: Mr. Aniruddha Prabhu B P [Assistant Professor] 8660608700 (35 Students)
+
+[Seat B]
+Tst54: Data mining, IC Name: Dr. T. Sheik Yousuf, Invigilator Name: Dr. Archana Sasi [Assistant Professor] 9400284847 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 115C (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst06: Computer Organisation and Architecture, IC Name: Mr. Basavaraju D R, Invigilator Name: Dr. B. Swaminathan [Professor] 9444755536 (35 Students)
+
+[Seat B]
+Tst54: Data mining, IC Name: Dr. T. Sheik Yousuf, Invigilator Name: Dr. Balajee Alphonse [Assistant Professor] 9789278941 (08 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 116A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst06: Computer Organisation and Architecture, IC Name: Mr. Basavaraju D R, Invigilator Name: Mr. Chandra C [Lab Instructor] 8431229732 (35 Students)
+
+[Seat B]
+Tst55: Data Visiualization using Tableau, IC Name: Dr. S Annamalai, Invigilator Name: Dr. Chandrasekar Venkatachalam [Professor) 9944224662 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 116B (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst06: Computer Organisation and Architecture, IC Name: Mr. Basavaraju D R, Invigilator Name: Mr. Chokklingam Vijaya Kumar [Lab Instructor] 7904054093 (35 Students)
+
+[Seat B]
+Tst55: Data Visiualization using Tableau, IC Name: Dr. S Annamalai, Invigilator Name: Dr. D Ramya Dorai [Associate Professor] 7010911900 (07 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 116C (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst06: Computer Organisation and Architecture, IC Name: Mr. Basavaraju D R, Invigilator Name: Mr. Divyanshu Prakash [Assistant Professor] 6206947559 (35 Students)
+
+[Seat B]
+Tst70: Image Processing, IC Name: Dr. Janaki Kandasamy, Invigilator Name: Dr. Garima Sinha [Professor] 9557666611 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 125A (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst60: Essentials of Machine Learning, IC Name: Dr. A.Vijayakumar, Invigilator Name: Ms Geetha Rani K [Assistant Professor] 9600535747 (21 Students)
+
+[Seat B]
+Tst22: Machine Learning, IC Name: Dr. Jayashri Abhayakumar Inchal, Invigilator Name: Dr. Giddaluri Nagendra Babu [Associate Professor] 9885011772 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 125B (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst22: Machine Learning, IC Name: Dr. Jayashri Abhayakumar Inchal, Invigilator Name: Dr. Gowri Shankar J [Assistant professor] 9659517042 (30 Students)
+
+[Seat B]
+Tst25: Scripting for Hackers, IC Name: Dr. A.Vijayakumar, Invigilator Name: Dr. Gowthul Alam M M [Professor] 9994393985 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 126A (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst22: Machine Learning, IC Name: Dr. Jayashri Abhayakumar Inchal, Invigilator Name: Dr. Guruvammal S. [Assistant Professor] 6381899859 (30 Students)
+
+[Seat B]
+Tst25: Scripting for Hackers, IC Name: Dr. A.Vijayakumar, Invigilator Name: Dr. Harinee. S [Assistant Professor] 9500555739 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 126B (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst22: Machine Learning, IC Name: Dr. Jayashri Abhayakumar Inchal, Invigilator Name: Dr. Harpreet Kaur [Assistant Professor] 9041748954 (30 Students)
+
+[Seat B]
+Tst25: Scripting for Hackers, IC Name: Dr. A.Vijayakumar, Invigilator Name: Ms. Harshitha. B [Office Admin] 9886899433 (04 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 127A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst06: Computer Organisation and Architecture, IC Name: Mr. Basavaraju D R, Invigilator Name: Dr. I Ambika [Associate Professor] 9629580572 (31 Students)
+
+[Seat B]
+Tst70: Image Processing, IC Name: Dr. Janaki Kandasamy, Invigilator Name: Dr. J Somasekar [Professor] 7348842635 (07 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 127B (A: 34, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst72: Leadership and Negotiation Skills, IC Name: Dr. Ebin, Invigilator Name: Dr. Janarthanan Sekar [Assistant Professor] 9003459620 (34 Students)
+
+[Seat B]
+Tst35: Artificial Intelligence, IC Name: Dr. Manikandan P, Invigilator Name: Dr. John Basha [Assistant Professor] 9894674841 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 127C (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst72: Leadership and Negotiation Skills, IC Name: Dr. Ebin, Invigilator Name: Dr. K S Arvind [Associate Professor] 9944323386 (35 Students)
+
+[Seat B]
+Tst71: Information Security, IC Name: Dr. Rajapraveen Kumar N, Invigilator Name: Dr. Karthick Raghunath K M [Associate Professor] 9952445562 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 202 (A: 32, B: 31), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst72: Leadership and Negotiation Skills, IC Name: Dr. Ebin, Invigilator Name: Ms.Kavya K R [Office Admin] 9901379334 (23 Students)
+
+[Seat B]
+Tst60: Essentials of Machine Learning, IC Name: Dr. A.Vijayakumar, Invigilator Name: Mr. Lanke Ravi Kumar [Assistant Professor] 7997009777 (31 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 205 (A: 30, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst22: Machine Learning, IC Name: Dr. Jayashri Abhayakumar Inchal, Invigilator Name: Dr. M. Kumaresan [Associate Professor] 9944350506 (30 Students)
+
+[Seat B]
+Tst79: S/W DESIGN with UML, IC Name: Dr. C Mahiba, Invigilator Name: Dr. M Sayee Kumar [Associate Professor] 7667444084 (29 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 211 (A: 28, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst46: Communication Protocol, IC Name: Dr. Ramesh Babu J, Invigilator Name: Dr. Mahesh TR [Associate Professor] 8310548920 (27 Students)
+
+[Seat B]
+Tst79: S/W DESIGN with UML, IC Name: Dr. C Mahiba, Invigilator Name: Mrs. Manasa S M [Lab Instructor] 8123322435 (02 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 212 (A: 30, B: 23), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst22: Machine Learning, IC Name: Dr. Jayashri Abhayakumar Inchal, Invigilator Name: Dr. Manjula V. [Professor] 8197603006 (30 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 214A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst72: Leadership and Negotiation Skills, IC Name: Dr. Ebin, Invigilator Name: Dr. Manujakshi B C [Associate Professor] 9900003022 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 214B (A: 32, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst60: Essentials of Machine Learning, IC Name: Dr. A.Vijayakumar, Invigilator Name: Mr Mir Junaid Rasool [Assistant Professor] 8825021631 (32 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 214C (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst72: Leadership and Negotiation Skills, IC Name: Dr. Ebin, Invigilator Name: Dr. Moin Hasan [Assistant Professor] 9569803220 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 215A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst72: Leadership and Negotiation Skills, IC Name: Dr. Ebin, Invigilator Name: Dr. N Priya [Assistant Professor] 9944052990 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 215B (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst72: Leadership and Negotiation Skills, IC Name: Dr. Ebin, Invigilator Name: Dr. N. Satheesh [Professor] 9344278825 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 215C (A: 33, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst72: Leadership and Negotiation Skills, IC Name: Dr. Ebin, Invigilator Name: Mr. N.Satish Babu [Office Admin] 8088760599 (33 Students)
+
+[Seat B]
+Tst35: Artificial Intelligence, IC Name: Dr. Manikandan P, Invigilator Name: Mr. Nagendra Rao [Lab Instructor] 9986586393 (03 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst06: Computer Organisation and Architecture, IC Name: Mr. Basavaraju D R, Invigilator Name: Mrs. Nisarga K S [Lab Instructor] 95356901267 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 222A (A: 35, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst06: Computer Organisation and Architecture, IC Name: Mr. Basavaraju D R, Invigilator Name: Dr. Nishant Tripathi [Assistant Professor] 7084523614 (35 Students)
+
+[Seat B]
+Tst60: Essentials of Machine Learning, IC Name: Dr. A.Vijayakumar, Invigilator Name: Dr. Pajany M [Assistant Professor] 9486520800 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst06: Computer Organisation and Architecture, IC Name: Mr. Basavaraju D R, Invigilator Name: Dr. Panduranga Rao [Professor] 8073254459 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 303 (A: 33, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst72: Leadership and Negotiation Skills, IC Name: Dr. Ebin, Invigilator Name: Dr. Pathan Katheeja Khanam [Assistant Professor] 7674844036 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 304 (A: 29, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst13: Formal Languages and Automat Theory, IC Name: Dr. Thiruvannamalai Sivasankar P, Invigilator Name: Dr Prasad P S [Professor] 9538002900 (28 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 316A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst72: Leadership and Negotiation Skills, IC Name: Dr. Ebin, Invigilator Name: Dr. Preeti Gupta [Assistant Professor] 9452955331 (35 Students)
+
+[Seat B]
+Tst71: Information Security, IC Name: Dr. Rajapraveen Kumar N, Invigilator Name: Dr. R. Vijayanand [Associate Professor] 9025541417 (06 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst06: Computer Organisation and Architecture, IC Name: Mr. Basavaraju D R, Invigilator Name: Mr Rajesh Pandian N [Assistant Professor] 9629593923 (36 Students)
+
+[Seat B]
+Tst22: Machine Learning, IC Name: Dr. Jayashri Abhayakumar Inchal, Invigilator Name: Dr. Rakesh Patra [Assistant Professor] 7008674648 (10 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 322B (A: 30, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst22: Machine Learning, IC Name: Dr. Jayashri Abhayakumar Inchal, Invigilator Name: Ms. Rakshitha P B [Lab Instructor] 9535698752 (30 Students)
+
+[Seat B]
+Tst65: Fundamental of IoS Development in Swift, IC Name: Dr. Karthik Ragunath, Invigilator Name: Mrs. Ramya Muniyandi [Office Admin] 9841987485 (02 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 327A (A: 30, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst22: Machine Learning, IC Name: Dr. Jayashri Abhayakumar Inchal, Invigilator Name: Ms. Ranjushree T S [Office Admin] 8296326371 (30 Students)
+
+[Seat B]
+Tst79: S/W DESIGN with UML, IC Name: Dr. C Mahiba, Invigilator Name: Dr. Ravikumar Sethuraman [Associate Professor] 9445778728 (29 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-1
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst06: Computer Organisation and Architecture, IC Name: Mr. Basavaraju D R, Invigilator Name: Dr. Ravindra Raman Cholla [Assistant Professor] 9704007549 (38 Students)
+
+[Seat B]
+Tst42: Cloud Computing and Virtualization, IC Name: Dr. Anthoni Raj, Invigilator Name: Dr. Renukadevi. P [Assistant Professor] 9865154751 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 101 (A: 31, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst32: Advanced Computer Networks, IC Name: Dr. Suriya Prakash, Invigilator Name: Dr. A.Vijayakumar [Associate Professor] 9963963243 (31 Students)
+
+[Seat B]
+Tst63: Ethical Hacking, IC Name: Dr. Vijayanand S, Invigilator Name: Dr. Anthoni Raj [Professor] 9894986474 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 103 (A: 29, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst73: Microprocessor and  Microcontrollers, IC Name: Mr. Basavaraju D R, Invigilator Name: Dr. C Mahiba [Assistant Professor] 9865763084 (29 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 108 (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst01: Applications of AI, IC Name: Mr. Divyanshu Prakash, Invigilator Name: Dr. Janaki Kandasamy [Associate Professor] 9738322312 (30 Students)
+
+[Seat B]
+Tst02: Artificial Intelligence, IC Name: Dr. S Prakash, Invigilator Name: Dr. Jayashri Abhayakumar Inchal [Assistant Professor] 9449608066 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 110 (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst32: Advanced Computer Networks, IC Name: Dr. Suriya Prakash, Invigilator Name: Dr. Manikandan P [Associate Professor] 9443636186 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 111 (A: 28, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst19: Introduction to Cyber Physical Systems, IC Name: Dr. Nishant Tripathi, Invigilator Name: Dr. Rajapraveen Kumar N [Associate Professor] 9000070888 (04 Students)
+
+[Seat B]
+Tst75: Mobile Computing, IC Name: Dr. B. Swaminathan, Invigilator Name: Dr. Ramesh Babu J [Associate Professor] 7780544486 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 113A (A: 31, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst32: Advanced Computer Networks, IC Name: Dr. Suriya Prakash, Invigilator Name: Ms. Roopa Bai M [Lab Instructor] 9901712622 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 113B (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst32: Advanced Computer Networks, IC Name: Dr. Suriya Prakash, Invigilator Name: Dr. S Annamalai [Associate Professor] 9944907018 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 113C (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst32: Advanced Computer Networks, IC Name: Dr. Suriya Prakash, Invigilator Name: Dr. S Kanithan [Assistant Professor] 9894974001 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 115A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst33: Advanced Machine Learning, IC Name: Dr. Guruvammal S., Invigilator Name: Mr. S. Karthikeyan [Assistant Professor] 9543277017 (35 Students)
+
+[Seat B]
+Tst49: Cyber Risk Analysis, IC Name: Ms. Ambili K N, Invigilator Name: Dr. S. Nagaraj [Associate Professor] 9943440560 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 115B (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst33: Advanced Machine Learning, IC Name: Dr. Guruvammal S., Invigilator Name: Dr. S Saravanakumar [Associate Professor] 9894115342 (35 Students)
+
+[Seat B]
+Tst49: Cyber Risk Analysis, IC Name: Ms. Ambili K N, Invigilator Name: Mr. S Srinivas Kumar [Assistant Professor] 7993462416 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 115C (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst33: Advanced Machine Learning, IC Name: Dr. Guruvammal S., Invigilator Name: Dr. Sankar K [Associate Professor] 9840683301 (35 Students)
+
+[Seat B]
+Tst49: Cyber Risk Analysis, IC Name: Ms. Ambili K N, Invigilator Name: Dr. Santhosh Kumar Singh [Assistant Professor] 9035235491 (04 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 116A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst33: Advanced Machine Learning, IC Name: Dr. Guruvammal S., Invigilator Name: Dr. Saravana Kumar R [Professor] 9894608731 (35 Students)
+
+[Seat B]
+Tst62: Essence of Indian Traditional Knowledge, IC Name: Prof. Aiswarya, Invigilator Name: Dr. Senthil Kumar [Associate Professor] 9343354882 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 116B (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst33: Advanced Machine Learning, IC Name: Dr. Guruvammal S., Invigilator Name: Mr. Shahad P [Assistant Professor] 9746448836 (35 Students)
+
+[Seat B]
+Tst62: Essence of Indian Traditional Knowledge, IC Name: Prof. Aiswarya, Invigilator Name: Dr. Shajahan B [Professor] 7010181930 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 116C (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst33: Advanced Machine Learning, IC Name: Dr. Guruvammal S., Invigilator Name: Mr. Shantha Kumar [Assistant Professor] 9886983449 (24 Students)
+
+[Seat B]
+Tst62: Essence of Indian Traditional Knowledge, IC Name: Prof. Aiswarya, Invigilator Name: Ms. Shashikala H K [Assistant Professor] 9900685155 (04 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 125A (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst01: Applications of AI, IC Name: Mr. Divyanshu Prakash, Invigilator Name: Ms Sheetal [Office Admin] 6362776036 (30 Students)
+
+[Seat B]
+Tst02: Artificial Intelligence, IC Name: Dr. S Prakash, Invigilator Name: Dr. Shivam Swarup [Assistant Professor] 9425012195 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 125B (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst01: Applications of AI, IC Name: Mr. Divyanshu Prakash, Invigilator Name: Dr. Shivkumar C [Assistant Professor] 8762417437 (30 Students)
+
+[Seat B]
+Tst02: Artificial Intelligence, IC Name: Dr. S Prakash, Invigilator Name: Ms Shobha H R [Assistant Professor] 9353576414 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 126A (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst01: Applications of AI, IC Name: Mr. Divyanshu Prakash, Invigilator Name: Dr. Somashekhara Reddy D [Assistant Professor] 6362448766 (30 Students)
+
+[Seat B]
+Tst02: Artificial Intelligence, IC Name: Dr. S Prakash, Invigilator Name: Dr. Sowmya M S [Assistant Professor] 9986831624 (27 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 126B (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst01: Applications of AI, IC Name: Mr. Divyanshu Prakash, Invigilator Name: Dr. Srinivasa Rao [Assistant Professor] 9985032966 (30 Students)
+
+[Seat B]
+Tst07: Data Warehousing and Data Mining, IC Name: Dr. I Ambika, Invigilator Name: Dr. Subhankar Ghosal [Assistant Professor] 94322 98596 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 127A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst14: Foundations of Cloud Computing, IC Name: Dr. S Jerald Nirmal Kumar, Invigilator Name: Dr. Sugumar Ramaiyan [Associate Professor] 9894982065 (35 Students)
+
+[Seat B]
+Tst04: Communication Networks, IC Name: Dr. M. Kumaresan, Invigilator Name: Dr. Sujeet S. Jagtap [Assistant Professor] 8838539503 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 127B (A: 34, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst14: Foundations of Cloud Computing, IC Name: Dr. S Jerald Nirmal Kumar, Invigilator Name: Dr. Sunanda Das [Associate Professor] 8777731539 (34 Students)
+
+[Seat B]
+Tst11: Essentials of Big Data, IC Name: Dr. Rajanikanta Mohanty, Invigilator Name: Mrs. Sunena Rose M V [Assistant Professor] 7012375930 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 127C (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst14: Foundations of Cloud Computing, IC Name: Dr. S Jerald Nirmal Kumar, Invigilator Name: Mrs Supriya Yadav D [Office Admin] 9738172914 (35 Students)
+
+[Seat B]
+Tst04: Communication Networks, IC Name: Dr. M. Kumaresan, Invigilator Name: Dr. Suresh Kallam [Professor] 8169325745 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 201 (A: 28, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst75: Mobile Computing, IC Name: Dr. B. Swaminathan, Invigilator Name: Dr. Swati Gupta [Assistant Professor] 8218612032 (02 Students)
+
+[Seat B]
+Tst10: Elective -1 - IOT, IC Name: Dr. Sukumar, Invigilator Name: Dr. Thiruvannamalai Sivasankar P [Professor] 9940336349 (26 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 202 (A: 32, B: 31), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst14: Foundations of Cloud Computing, IC Name: Dr. S Jerald Nirmal Kumar, Invigilator Name: Dr. V. Manikandan [Assistant Professor] 8248757875 (06 Students)
+
+[Seat B]
+Tst32: Advanced Computer Networks, IC Name: Dr. Suriya Prakash, Invigilator Name: Mr Vaibhav Prabhakar Raibole [Assistant Professor] 9462833005 (31 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 205 (A: 30, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst01: Applications of AI, IC Name: Mr. Divyanshu Prakash, Invigilator Name: Dr. Vairavel [Assistant Professor] 9894844328 (30 Students)
+
+[Seat B]
+Tst34: Agile Software Development, IC Name: Dr. Santhosh S, Invigilator Name: Mr Vasanth Ravi [Assistant Professor] 6369809175 (29 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 206 (A: 28, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst51: Domain Sepcific AI, IC Name: Dr. T. Sheik Yousuf, Invigilator Name: Mr Vijaykumar [Lab Instructor] 7904054093 (21 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 211 (A: 28, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst19: Introduction to Cyber Physical Systems, IC Name: Dr. Nishant Tripathi, Invigilator Name: Mr. Vinay M S [Lab Instructor] 9844394106 (28 Students)
+
+[Seat B]
+Tst34: Agile Software Development, IC Name: Dr. Santhosh S, Invigilator Name: Mr. Vivek Gupta [Assistant Professor] 8737909973 (06 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 212 (A: 30, B: 23), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst07: Data Warehousing and Data Mining, IC Name: Dr. I Ambika, Invigilator Name: Dr. Yogesh Kumaran [Assistant Professor] 9742022976 (30 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 214A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst14: Foundations of Cloud Computing, IC Name: Dr. S Jerald Nirmal Kumar, Invigilator Name: Dr. A. Priyadharshini [Assistant Professor] 9025912352 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 214B (A: 32, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst32: Advanced Computer Networks, IC Name: Dr. Suriya Prakash, Invigilator Name: Dr. A. Rajesh [Professor] 9629730168 (32 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 214C (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst14: Foundations of Cloud Computing, IC Name: Dr. S Jerald Nirmal Kumar, Invigilator Name: Dr. A Suresh Kumar [Professor] 8438656467 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 215A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst14: Foundations of Cloud Computing, IC Name: Dr. S Jerald Nirmal Kumar, Invigilator Name: Mr. Abhishek K S [Office Admin] 991619581 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 215B (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst14: Foundations of Cloud Computing, IC Name: Dr. S Jerald Nirmal Kumar, Invigilator Name: Mr. Abhishek M [Lab Instructor] 7795853548 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 215C (A: 33, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst14: Foundations of Cloud Computing, IC Name: Dr. S Jerald Nirmal Kumar, Invigilator Name: Ms. Agashini [Assistant Professor] 9591051078 (33 Students)
+
+[Seat B]
+Tst11: Essentials of Big Data, IC Name: Dr. Rajanikanta Mohanty, Invigilator Name: Ms. Aishwarya R [Assistant Professor] 9535393751 (09 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst33: Advanced Machine Learning, IC Name: Dr. Guruvammal S., Invigilator Name: Dr. Ajay Kumar Singh [Professor] 8791894008 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 222A (A: 35, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst33: Advanced Machine Learning, IC Name: Dr. Guruvammal S., Invigilator Name: Mr. Ananda V M [Lab Instructor] 9741524219 (35 Students)
+
+[Seat B]
+Tst32: Advanced Computer Networks, IC Name: Dr. Suriya Prakash, Invigilator Name: Mr Anandhu. S [English] 8921148058 (20 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst33: Advanced Machine Learning, IC Name: Dr. Guruvammal S., Invigilator Name: Mr. Aniruddha Prabhu B P [Assistant Professor] 8660608700 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 303 (A: 33, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst14: Foundations of Cloud Computing, IC Name: Dr. S Jerald Nirmal Kumar, Invigilator Name: Dr. Archana Sasi [Assistant Professor] 9400284847 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 304 (A: 29, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst73: Microprocessor and  Microcontrollers, IC Name: Mr. Basavaraju D R, Invigilator Name: Dr. Balajee Alphonse [Assistant Professor] 9789278941 (29 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 316A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst14: Foundations of Cloud Computing, IC Name: Dr. S Jerald Nirmal Kumar, Invigilator Name: Mr. Chandra C [Lab Instructor] 8431229732 (35 Students)
+
+[Seat B]
+Tst04: Communication Networks, IC Name: Dr. M. Kumaresan, Invigilator Name: Dr. Chandrasekar Venkatachalam [Professor) 9944224662 (02 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst33: Advanced Machine Learning, IC Name: Dr. Guruvammal S., Invigilator Name: Mr. Chokklingam Vijaya Kumar [Lab Instructor] 7904054093 (36 Students)
+
+[Seat B]
+Tst07: Data Warehousing and Data Mining, IC Name: Dr. I Ambika, Invigilator Name: Dr. D Ramya Dorai [Associate Professor] 7010911900 (04 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 322B (A: 30, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst01: Applications of AI, IC Name: Mr. Divyanshu Prakash, Invigilator Name: Dr. Garima Sinha [Professor] 9557666611 (07 Students)
+
+[Seat B]
+Tst63: Ethical Hacking, IC Name: Dr. Vijayanand S, Invigilator Name: Ms Geetha Rani K [Assistant Professor] 9600535747 (06 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 327A (A: 30, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst01: Applications of AI, IC Name: Mr. Divyanshu Prakash, Invigilator Name: Dr. Giddaluri Nagendra Babu [Associate Professor] 9885011772 (30 Students)
+
+[Seat B]
+Tst34: Agile Software Development, IC Name: Dr. Santhosh S, Invigilator Name: Dr. Gowri Shankar J [Assistant professor] 9659517042 (29 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 15-Sept-25, Slot-3
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst33: Advanced Machine Learning, IC Name: Dr. Guruvammal S., Invigilator Name: Dr. Gowthul Alam M M [Professor] 9994393985 (38 Students)
+
+[Seat B]
+Tst73: Microprocessor and  Microcontrollers, IC Name: Mr. Basavaraju D R, Invigilator Name: Dr. Harinee. S [Assistant Professor] 9500555739 (03 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 101 (A: 31, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst12: Essentials of Data Warehousing and Data Mining, IC Name: Dr. M Sayee Kumar, Invigilator Name: Mr. Basavaraju D R [Assistant Professor] 9964724949 (31 Students)
+
+[Seat B]
+Tst30: Computer Organisation and Architecture, IC Name: Dr. S. Nagaraj, Invigilator Name: Dr. S Jerald Nirmal Kumar [Associate Professor] 9894774758 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 103 (A: 29, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst69: Industrial AI, IC Name: Mr. Narasimhayya B. E., Invigilator Name: Dr. S Prakash [Assitant Professor] 9791281837 (29 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 108 (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst64: Fundamentals of Artificial Intelligence, IC Name: Dr. Balajee Alphonse, Invigilator Name: Dr. Santhosh S [Assistant Professor] 7892058314 (30 Students)
+
+[Seat B]
+Tst83: REINFORCEMENT LEARNING, IC Name: Dr. Swati Gupta, Invigilator Name: Dr. Sukumar [Professor] 9629673751 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 110 (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst12: Essentials of Data Warehousing and Data Mining, IC Name: Dr. M Sayee Kumar, Invigilator Name: Dr. Suriya Prakash [Assistant Professor] 7349456210 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 111 (A: 28, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst27: Software engineering and project management, IC Name: Mr Vaibhav Prabhakar Raibole, Invigilator Name: Dr. T. Sheik Yousuf [Associate Professor] 9944280680 (18 Students)
+
+[Seat B]
+Tst52: Data warehousing and data mining, IC Name: Dr. Srinivasa Rao, Invigilator Name: Dr. Vijayanand S [Assistant Professor] 9789357723 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 113A (A: 31, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst64: Fundamentals of Artificial Intelligence, IC Name: Dr. Balajee Alphonse, Invigilator Name: Dr. A.Vijayakumar [Associate Professor] 9963963243 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 113B (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst12: Essentials of Data Warehousing and Data Mining, IC Name: Dr. M Sayee Kumar, Invigilator Name: Ms. Ambili K N [Assistant Professor] 8129055842 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 113C (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst12: Essentials of Data Warehousing and Data Mining, IC Name: Dr. M Sayee Kumar, Invigilator Name: Dr. Anthoni Raj [Professor] 9894986474 (24 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 115A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. B. Swaminathan [Professor] 9444755536 (35 Students)
+
+[Seat B]
+Tst78: Software Testing, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. C Mahiba [Assistant Professor] 9865763084 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 115B (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Mr. Divyanshu Prakash [Assistant Professor] 6206947559 (35 Students)
+
+[Seat B]
+Tst78: Software Testing, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. Guruvammal S. [Assistant Professor] 6381899859 (08 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 115C (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. Harpreet Kaur [Assistant Professor] 9041748954 (35 Students)
+
+[Seat B]
+Tst80: Storage Management and Data Center, IC Name: Dr. V. Manikandan, Invigilator Name: Ms. Harshitha. B [Office Admin] 9886899433 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 116A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. I Ambika [Associate Professor] 9629580572 (35 Students)
+
+[Seat B]
+Tst80: Storage Management and Data Center, IC Name: Dr. V. Manikandan, Invigilator Name: Dr. J Somasekar [Professor] 7348842635 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 116B (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. Janaki Kandasamy [Associate Professor] 9738322312 (35 Students)
+
+[Seat B]
+Tst80: Storage Management and Data Center, IC Name: Dr. V. Manikandan, Invigilator Name: Dr. Janarthanan Sekar [Assistant Professor] 9003459620 (07 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 116C (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. Jayashri Abhayakumar Inchal [Assistant Professor] 9449608066 (35 Students)
+
+[Seat B]
+Tst44: Cloud Computing, IC Name: Dr. Uday Kumar Singh, Invigilator Name: Dr. John Basha [Assistant Professor] 9894674841 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 125A (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst64: Fundamentals of Artificial Intelligence, IC Name: Dr. Balajee Alphonse, Invigilator Name: Dr. K S Arvind [Associate Professor] 9944323386 (30 Students)
+
+[Seat B]
+Tst83: REINFORCEMENT LEARNING, IC Name: Dr. Swati Gupta, Invigilator Name: Dr. Karthick Raghunath K M [Associate Professor] 9952445562 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 125B (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst64: Fundamentals of Artificial Intelligence, IC Name: Dr. Balajee Alphonse, Invigilator Name: Ms.Kavya K R [Office Admin] 9901379334 (30 Students)
+
+[Seat B]
+Tst83: REINFORCEMENT LEARNING, IC Name: Dr. Swati Gupta, Invigilator Name: Mr. Lanke Ravi Kumar [Assistant Professor] 7997009777 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 126A (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst64: Fundamentals of Artificial Intelligence, IC Name: Dr. Balajee Alphonse, Invigilator Name: Dr. M. Kumaresan [Associate Professor] 9944350506 (30 Students)
+
+[Seat B]
+Tst83: REINFORCEMENT LEARNING, IC Name: Dr. Swati Gupta, Invigilator Name: Dr. Mahesh TR [Associate Professor] 8310548920 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 126B (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst64: Fundamentals of Artificial Intelligence, IC Name: Dr. Balajee Alphonse, Invigilator Name: Mrs. Manasa S M [Lab Instructor] 8123322435 (26 Students)
+
+[Seat B]
+Tst83: REINFORCEMENT LEARNING, IC Name: Dr. Swati Gupta, Invigilator Name: Dr. Manikandan P [Associate Professor] 9443636186 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 127A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. Manjula V. [Professor] 8197603006 (35 Students)
+
+[Seat B]
+Tst44: Cloud Computing, IC Name: Dr. Uday Kumar Singh, Invigilator Name: Dr. Manujakshi B C [Associate Professor] 9900003022 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 127B (A: 34, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Mr Mir Junaid Rasool [Assistant Professor] 8825021631 (34 Students)
+
+[Seat B]
+Tst56: Digital Forensics, IC Name: Mr Vasanth Ravi, Invigilator Name: Dr. Moin Hasan [Assistant Professor] 9569803220 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 127C (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. N. Satheesh [Professor] 9344278825 (35 Students)
+
+[Seat B]
+Tst44: Cloud Computing, IC Name: Dr. Uday Kumar Singh, Invigilator Name: Mr. N.Satish Babu [Office Admin] 8088760599 (04 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 201 (A: 28, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst52: Data warehousing and data mining, IC Name: Dr. Srinivasa Rao, Invigilator Name: Mr. Nagendra Rao [Lab Instructor] 9986586393 (06 Students)
+
+[Seat B]
+Tst18: Introduction to Blockchain Technology, IC Name: Dr. N Priya, Invigilator Name: Mrs. Nisarga K S [Lab Instructor] 95356901267 (27 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 202 (A: 32, B: 31), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst12: Essentials of Data Warehousing and Data Mining, IC Name: Dr. M Sayee Kumar, Invigilator Name: Dr. Nishant Tripathi [Assistant Professor] 7084523614 (32 Students)
+
+[Seat B]
+Tst64: Fundamentals of Artificial Intelligence, IC Name: Dr. Balajee Alphonse, Invigilator Name: Dr. Pajany M [Assistant Professor] 9486520800 (31 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 205 (A: 30, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst83: REINFORCEMENT LEARNING, IC Name: Dr. Swati Gupta, Invigilator Name: Dr. Panduranga Rao [Professor] 8073254459 (24 Students)
+
+[Seat B]
+Tst82: BLOCKCHAIN TECHNOLOGIES FOR DATA SCIENCE, IC Name: Dr. Sugumar Ramaiyan, Invigilator Name: Dr. Pathan Katheeja Khanam [Assistant Professor] 7674844036 (29 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 206 (A: 28, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst68: IOT Platform Design, IC Name: Prof. Uday Prasad, Invigilator Name: Dr Prasad P S [Professor] 9538002900 (27 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 211 (A: 28, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst27: Software engineering and project management, IC Name: Mr Vaibhav Prabhakar Raibole, Invigilator Name: Dr. Preeti Gupta [Assistant Professor] 9452955331 (28 Students)
+
+[Seat B]
+Tst69: Industrial AI, IC Name: Mr. Narasimhayya B. E., Invigilator Name: Dr. R. Vijayanand [Associate Professor] 9025541417 (29 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 212 (A: 30, B: 23), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst37: Bigdata Analytics, IC Name: Dr. Saravana Kumar R, Invigilator Name: Dr. Rajapraveen Kumar N [Associate Professor] 9000070888 (27 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 214A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Mr Rajesh Pandian N [Assistant Professor] 9629593923 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 214B (A: 32, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst12: Essentials of Data Warehousing and Data Mining, IC Name: Dr. M Sayee Kumar, Invigilator Name: Dr. Rakesh Patra [Assistant Professor] 7008674648 (32 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 214C (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst12: Essentials of Data Warehousing and Data Mining, IC Name: Dr. M Sayee Kumar, Invigilator Name: Ms. Rakshitha P B [Lab Instructor] 9535698752 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 215A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. Ramesh Babu J [Associate Professor] 7780544486 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 215B (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst12: Essentials of Data Warehousing and Data Mining, IC Name: Dr. M Sayee Kumar, Invigilator Name: Mrs. Ramya Muniyandi [Office Admin] 9841987485 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 215C (A: 33, B: 28), Planned Courses A: 2, B: 1 #Total: 3
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Ms. Ranjushree T S [Office Admin] 8296326371 (05 Students)
+Tst56: Digital Forensics, IC Name: Mr Vasanth Ravi, Invigilator Name: Dr. Ravikumar Sethuraman [Associate Professor] 9445778728 (04 Students)
+
+[Seat B]
+Tst30: Computer Organisation and Architecture, IC Name: Dr. S. Nagaraj, Invigilator Name: Dr. Ravindra Raman Cholla [Assistant Professor] 9704007549 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. Renukadevi. P [Assistant Professor] 9865154751 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 222A (A: 35, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Ms. Roopa Bai M [Lab Instructor] 9901712622 (35 Students)
+
+[Seat B]
+Tst64: Fundamentals of Artificial Intelligence, IC Name: Dr. Balajee Alphonse, Invigilator Name: Dr. S Annamalai [Associate Professor] 9944907018 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. S Kanithan [Assistant Professor] 9894974001 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 303 (A: 33, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst12: Essentials of Data Warehousing and Data Mining, IC Name: Dr. M Sayee Kumar, Invigilator Name: Mr. S. Karthikeyan [Assistant Professor] 9543277017 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 304 (A: 29, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst69: Industrial AI, IC Name: Mr. Narasimhayya B. E., Invigilator Name: Dr. S Saravanakumar [Associate Professor] 9894115342 (13 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 316A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Mr. S Srinivas Kumar [Assistant Professor] 7993462416 (35 Students)
+
+[Seat B]
+Tst56: Digital Forensics, IC Name: Mr Vasanth Ravi, Invigilator Name: Dr. Sankar K [Associate Professor] 9840683301 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. Santhosh Kumar Singh [Assistant Professor] 9035235491 (36 Students)
+
+[Seat B]
+Tst82: BLOCKCHAIN TECHNOLOGIES FOR DATA SCIENCE, IC Name: Dr. Sugumar Ramaiyan, Invigilator Name: Dr. Senthil Kumar [Associate Professor] 9343354882 (29 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 322B (A: 30, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst37: Bigdata Analytics, IC Name: Dr. Saravana Kumar R, Invigilator Name: Mr. Shahad P [Assistant Professor] 9746448836 (30 Students)
+
+[Seat B]
+Tst30: Computer Organisation and Architecture, IC Name: Dr. S. Nagaraj, Invigilator Name: Dr. Shajahan B [Professor] 7010181930 (01 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 327A (A: 30, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst37: Bigdata Analytics, IC Name: Dr. Saravana Kumar R, Invigilator Name: Ms. Shashikala H K [Assistant Professor] 9900685155 (30 Students)
+
+[Seat B]
+Tst82: BLOCKCHAIN TECHNOLOGIES FOR DATA SCIENCE, IC Name: Dr. Sugumar Ramaiyan, Invigilator Name: Ms Sheetal [Office Admin] 6362776036 (14 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-1
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst26: Software Engineering, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. Shivam Swarup [Assistant Professor] 9425012195 (38 Students)
+
+[Seat B]
+Tst78: Software Testing, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. Shivkumar C [Assistant Professor] 8762417437 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-2
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst140: Usability Design Of Software Applications, IC Name: Ms. Aishwarya R, Invigilator Name: Ms Shobha H R [Assistant Professor] 9353576414 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-2
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst140: Usability Design Of Software Applications, IC Name: Ms. Aishwarya R, Invigilator Name: Dr. Somashekhara Reddy D [Assistant Professor] 6362448766 (15 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 101 (A: 31, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst16: Intelligent Systems, IC Name: Dr. Panduranga Rao, Invigilator Name: Mr. Basavaraju D R [Assistant Professor] 9964724949 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 110 (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst16: Intelligent Systems, IC Name: Dr. Panduranga Rao, Invigilator Name: Dr. M Sayee Kumar [Associate Professor] 7667444084 (06 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 113B (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst59: Data Analytics and Machine Learning for Cyber security  Elective-2, IC Name: Dr. Sunanda Das, Invigilator Name: Dr. S Jerald Nirmal Kumar [Associate Professor] 9894774758 (16 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 115A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst45: Computer Vision and Image Processing, IC Name: Dr. Sugumar Ramaiyan, Invigilator Name: Dr. S. Nagaraj [Associate Professor] 9943440560 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 115B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst45: Computer Vision and Image Processing, IC Name: Dr. Sugumar Ramaiyan, Invigilator Name: Dr. S Prakash [Assitant Professor] 9791281837 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 115C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst45: Computer Vision and Image Processing, IC Name: Dr. Sugumar Ramaiyan, Invigilator Name: Dr. Santhosh S [Assistant Professor] 7892058314 (13 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 116A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst39: Business Communication and Presentation Skills, IC Name: Prof. Monika Anand, Invigilator Name: Dr. Saravana Kumar R [Professor] 9894608731 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 116B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst39: Business Communication and Presentation Skills, IC Name: Prof. Monika Anand, Invigilator Name: Mr. Shantha Kumar [Assistant Professor] 9886983449 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 116C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst39: Business Communication and Presentation Skills, IC Name: Prof. Monika Anand, Invigilator Name: Dr. Sowmya M S [Assistant Professor] 9986831624 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 127A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst39: Business Communication and Presentation Skills, IC Name: Prof. Monika Anand, Invigilator Name: Dr. Srinivasa Rao [Assistant Professor] 9985032966 (20 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 127B (A: 34, B: 28), Planned Courses A: 2, B: 0 #Total: 2
+
+[Seat A]
+Tst28: Web Application Security, IC Name: Dr. N Priya, Invigilator Name: Dr. Subhankar Ghosal [Assistant Professor] 94322 98596 (33 Students)
+Tst76: Natural Language Processing, IC Name: Mrs. Sunena Rose M V, Invigilator Name: Dr. Sujeet S. Jagtap [Assistant Professor] 8838539503 (01 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 127C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst76: Natural Language Processing, IC Name: Mrs. Sunena Rose M V, Invigilator Name: Dr. Sukumar [Professor] 9629673751 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 202 (A: 32, B: 31), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst29: Internet of Things, IC Name: Dr. Suresh Kallam, Invigilator Name: Mrs Supriya Yadav D [Office Admin] 9738172914 (25 Students)
+
+[Seat B]
+Tst50: Cryptography, IC Name: Dr. Vijayanand, Invigilator Name: Dr. Suriya Prakash [Assistant Professor] 7349456210 (12 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 214A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst77: Python for Data Science, IC Name: Dr. I Ambika, Invigilator Name: Dr. Swati Gupta [Assistant Professor] 8218612032 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 214B (A: 32, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst50: Cryptography, IC Name: Dr. Vijayanand, Invigilator Name: Dr. T. Sheik Yousuf [Associate Professor] 9944280680 (32 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 214C (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst66: Funtamentals of Management, IC Name: Dr. Sachin Pavithran A. P., Invigilator Name: Dr. Thiruvannamalai Sivasankar P [Professor] 9940336349 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 215A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst77: Python for Data Science, IC Name: Dr. I Ambika, Invigilator Name: Dr. V. Manikandan [Assistant Professor] 8248757875 (32 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 215B (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst66: Funtamentals of Management, IC Name: Dr. Sachin Pavithran A. P., Invigilator Name: Mr Vaibhav Prabhakar Raibole [Assistant Professor] 9462833005 (27 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 215C (A: 33, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst28: Web Application Security, IC Name: Dr. N Priya, Invigilator Name: Dr. Vairavel [Assistant Professor] 9894844328 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst45: Computer Vision and Image Processing, IC Name: Dr. Sugumar Ramaiyan, Invigilator Name: Mr Vasanth Ravi [Assistant Professor] 6369809175 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 222A (A: 35, B: 30), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst45: Computer Vision and Image Processing, IC Name: Dr. Sugumar Ramaiyan, Invigilator Name: Dr. Vijayanand S [Assistant Professor] 9789357723 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst45: Computer Vision and Image Processing, IC Name: Dr. Sugumar Ramaiyan, Invigilator Name: Mr Vijaykumar [Lab Instructor] 7904054093 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 303 (A: 33, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst29: Internet of Things, IC Name: Dr. Suresh Kallam, Invigilator Name: Mr. Vinay M S [Lab Instructor] 9844394106 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 316A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst76: Natural Language Processing, IC Name: Mrs. Sunena Rose M V, Invigilator Name: Mr. Vivek Gupta [Assistant Professor] 8737909973 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst45: Computer Vision and Image Processing, IC Name: Dr. Sugumar Ramaiyan, Invigilator Name: Dr. Yogesh Kumaran [Assistant Professor] 9742022976 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 16-Sept-25, Slot-3
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst45: Computer Vision and Image Processing, IC Name: Dr. Sugumar Ramaiyan, Invigilator Name: Dr. A. Priyadharshini [Assistant Professor] 9025912352 (38 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 101 (A: 31, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. N Priya [Assistant Professor] 9944052990 (31 Students)
+
+[Seat B]
+Tst23: Object Oriented Programming, IC Name: Dr. C Mahiba, Invigilator Name: Dr. Sugumar Ramaiyan [Associate Professor] 9894982065 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 103 (A: 29, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst53: Data modelling with NOSQL Database, IC Name: Dr. Shivkumar C, Invigilator Name: Dr. Sunanda Das [Associate Professor] 8777731539 (29 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 108 (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Mrs. Sunena Rose M V [Assistant Professor] 7012375930 (30 Students)
+
+[Seat B]
+Tst61: Essentials of Deep Learning, IC Name: Dr. Archana Sasi, Invigilator Name: Dr. Suresh Kallam [Professor] 8169325745 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 110 (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. A. Rajesh [Professor] 9629730168 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 111 (A: 28, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst47: Conversastional System, IC Name: Dr. Santhosh Kumar Singh, Invigilator Name: Dr. A.Vijayakumar [Associate Professor] 9963963243 (28 Students)
+
+[Seat B]
+Tst40: Business Strategy, IC Name: Dr. Saresh Kumar, Invigilator Name: Mr. Abhishek K S [Office Admin] 991619581 (21 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 113A (A: 31, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Mr. Abhishek M [Lab Instructor] 7795853548 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 113B (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Ms. Agashini [Assistant Professor] 9591051078 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 113C (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Ms. Aishwarya R [Assistant Professor] 9535393751 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 115A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Ajay Kumar Singh [Professor] 8791894008 (35 Students)
+
+[Seat B]
+Tst53: Data modelling with NOSQL Database, IC Name: Dr. Shivkumar C, Invigilator Name: Ms. Ambili K N [Assistant Professor] 8129055842 (03 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 115B (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Mr. Ananda V M [Lab Instructor] 9741524219 (35 Students)
+
+[Seat B]
+Tst48: Cloud Computing and Virtualization, IC Name: Dr. A Suresh Kumar, Invigilator Name: Mr Anandhu. S [English] 8921148058 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 115C (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Anthoni Raj [Professor] 9894986474 (35 Students)
+
+[Seat B]
+Tst48: Cloud Computing and Virtualization, IC Name: Dr. A Suresh Kumar, Invigilator Name: Dr. Balajee Alphonse [Assistant Professor] 9789278941 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 116A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Mr. Basavaraju D R [Assistant Professor] 9964724949 (35 Students)
+
+[Seat B]
+Tst48: Cloud Computing and Virtualization, IC Name: Dr. A Suresh Kumar, Invigilator Name: Mr. Chandra C [Lab Instructor] 8431229732 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 116B (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Chandrasekar Venkatachalam [Professor) 9944224662 (35 Students)
+
+[Seat B]
+Tst48: Cloud Computing and Virtualization, IC Name: Dr. A Suresh Kumar, Invigilator Name: Mr. Chokklingam Vijaya Kumar [Lab Instructor] 7904054093 (03 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 116C (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. D Ramya Dorai [Associate Professor] 7010911900 (35 Students)
+
+[Seat B]
+Tst81: Essentials of Big Data Analytics, IC Name: Dr. Rajapraveen Kumar N, Invigilator Name: Mr. Divyanshu Prakash [Assistant Professor] 6206947559 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 125A (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Garima Sinha [Professor] 9557666611 (30 Students)
+
+[Seat B]
+Tst61: Essentials of Deep Learning, IC Name: Dr. Archana Sasi, Invigilator Name: Ms Geetha Rani K [Assistant Professor] 9600535747 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 125B (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Gowri Shankar J [Assistant professor] 9659517042 (10 Students)
+
+[Seat B]
+Tst61: Essentials of Deep Learning, IC Name: Dr. Archana Sasi, Invigilator Name: Dr. Gowthul Alam M M [Professor] 9994393985 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 126A (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst61: Essentials of Deep Learning, IC Name: Dr. Archana Sasi, Invigilator Name: Dr. Guruvammal S. [Assistant Professor] 6381899859 (30 Students)
+
+[Seat B]
+Tst36: Backend Programming, IC Name: Dr. Subhankar Ghosal, Invigilator Name: Dr. Harinee. S [Assistant Professor] 9500555739 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 126B (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst61: Essentials of Deep Learning, IC Name: Dr. Archana Sasi, Invigilator Name: Dr. Harpreet Kaur [Assistant Professor] 9041748954 (30 Students)
+
+[Seat B]
+Tst36: Backend Programming, IC Name: Dr. Subhankar Ghosal, Invigilator Name: Ms. Harshitha. B [Office Admin] 9886899433 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 127A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. I Ambika [Associate Professor] 9629580572 (35 Students)
+
+[Seat B]
+Tst81: Essentials of Big Data Analytics, IC Name: Dr. Rajapraveen Kumar N, Invigilator Name: Dr. J Somasekar [Professor] 7348842635 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 127B (A: 34, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Janaki Kandasamy [Associate Professor] 9738322312 (34 Students)
+
+[Seat B]
+Tst57: Data Protection and Data Security, IC Name: Mr. Aniruddha Prabhu B P, Invigilator Name: Dr. Janarthanan Sekar [Assistant Professor] 9003459620 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 127C (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Jayashri Abhayakumar Inchal [Assistant Professor] 9449608066 (35 Students)
+
+[Seat B]
+Tst81: Essentials of Big Data Analytics, IC Name: Dr. Rajapraveen Kumar N, Invigilator Name: Dr. John Basha [Assistant Professor] 9894674841 (08 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 201 (A: 28, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst47: Conversastional System, IC Name: Dr. Santhosh Kumar Singh, Invigilator Name: Dr. K S Arvind [Associate Professor] 9944323386 (11 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 202 (A: 32, B: 31), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Karthick Raghunath K M [Associate Professor] 9952445562 (32 Students)
+
+[Seat B]
+Tst61: Essentials of Deep Learning, IC Name: Dr. Archana Sasi, Invigilator Name: Ms.Kavya K R [Office Admin] 9901379334 (31 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 205 (A: 30, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst61: Essentials of Deep Learning, IC Name: Dr. Archana Sasi, Invigilator Name: Mr. Lanke Ravi Kumar [Assistant Professor] 7997009777 (30 Students)
+
+[Seat B]
+Tst36: Backend Programming, IC Name: Dr. Subhankar Ghosal, Invigilator Name: Dr. M. Kumaresan [Associate Professor] 9944350506 (06 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 211 (A: 28, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst23: Object Oriented Programming, IC Name: Dr. C Mahiba, Invigilator Name: Dr. M Sayee Kumar [Associate Professor] 7667444084 (01 Students)
+
+[Seat B]
+Tst53: Data modelling with NOSQL Database, IC Name: Dr. Shivkumar C, Invigilator Name: Dr. Mahesh TR [Associate Professor] 8310548920 (29 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 212 (A: 30, B: 23), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst36: Backend Programming, IC Name: Dr. Subhankar Ghosal, Invigilator Name: Mrs. Manasa S M [Lab Instructor] 8123322435 (30 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 214A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Manikandan P [Associate Professor] 9443636186 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 214B (A: 32, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Manjula V. [Professor] 8197603006 (32 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 214C (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Manujakshi B C [Associate Professor] 9900003022 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 215A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Mr Mir Junaid Rasool [Assistant Professor] 8825021631 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 215B (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Moin Hasan [Assistant Professor] 9569803220 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 215C (A: 33, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Mr. N.Satish Babu [Office Admin] 8088760599 (33 Students)
+
+[Seat B]
+Tst57: Data Protection and Data Security, IC Name: Mr. Aniruddha Prabhu B P, Invigilator Name: Mr. Nagendra Rao [Lab Instructor] 9986586393 (04 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Mrs. Nisarga K S [Lab Instructor] 95356901267 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 222A (A: 35, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Nishant Tripathi [Assistant Professor] 7084523614 (35 Students)
+
+[Seat B]
+Tst61: Essentials of Deep Learning, IC Name: Dr. Archana Sasi, Invigilator Name: Dr. Pajany M [Assistant Professor] 9486520800 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Panduranga Rao [Professor] 8073254459 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 303 (A: 33, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Pathan Katheeja Khanam [Assistant Professor] 7674844036 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 304 (A: 29, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst53: Data modelling with NOSQL Database, IC Name: Dr. Shivkumar C, Invigilator Name: Mr. Vivek Gupta [Assistant Professor] 8737909973 (29 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 316A (A: 35, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Preeti Gupta [Assistant Professor] 9452955331 (35 Students)
+
+[Seat B]
+Tst57: Data Protection and Data Security, IC Name: Mr. Aniruddha Prabhu B P, Invigilator Name: Dr. R. Vijayanand [Associate Professor] 9025541417 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Mr Rajesh Pandian N [Assistant Professor] 9629593923 (36 Students)
+
+[Seat B]
+Tst36: Backend Programming, IC Name: Dr. Subhankar Ghosal, Invigilator Name: Dr. Rakesh Patra [Assistant Professor] 7008674648 (29 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 322B (A: 30, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst36: Backend Programming, IC Name: Dr. Subhankar Ghosal, Invigilator Name: Ms. Rakshitha P B [Lab Instructor] 9535698752 (30 Students)
+
+[Seat B]
+Tst23: Object Oriented Programming, IC Name: Dr. C Mahiba, Invigilator Name: Dr. Ramesh Babu J [Associate Professor] 7780544486 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 327A (A: 30, B: 29), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst61: Essentials of Deep Learning, IC Name: Dr. Archana Sasi, Invigilator Name: Mrs. Ramya Muniyandi [Office Admin] 9841987485 (26 Students)
+
+[Seat B]
+Tst53: Data modelling with NOSQL Database, IC Name: Dr. Shivkumar C, Invigilator Name: Ms. Ranjushree T S [Office Admin] 8296326371 (29 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-1
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst24: Operating Systems, IC Name: Dr. Sonal Sharma, Invigilator Name: Dr. Ravindra Raman Cholla [Assistant Professor] 9704007549 (38 Students)
+
+[Seat B]
+Tst53: Data modelling with NOSQL Database, IC Name: Dr. Shivkumar C, Invigilator Name: Dr. Renukadevi. P [Assistant Professor] 9865154751 (28 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 101 (A: 31, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst90: Communication Protocol, IC Name: Dr. N. Vikram, Invigilator Name: Ms. Roopa Bai M [Lab Instructor] 9901712622 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 108 (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst139: UI/UX Design Principles, IC Name: Prof. Dr. Manjula, Invigilator Name: Dr. S Jerald Nirmal Kumar [Associate Professor] 9894774758 (01 Students)
+
+[Seat B]
+Tst91: Cross Platform Application, IC Name: Dr. Vijayanand S, Invigilator Name: Dr. S Kanithan [Assistant Professor] 9894974001 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 110 (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst90: Communication Protocol, IC Name: Dr. N. Vikram, Invigilator Name: Dr. S. Nagaraj [Associate Professor] 9943440560 (27 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 113A (A: 31, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst94: Cyber Threats and Attack Vectors, IC Name: Dr. B. Swaminathan, Invigilator Name: Dr. S Prakash [Assitant Professor] 9791281837 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 113B (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst121: IT Project Management, IC Name: Dr. Yogesh Kumaran, Invigilator Name: Dr. S Saravanakumar [Associate Professor] 9894115342 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 113C (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst121: IT Project Management, IC Name: Dr. Yogesh Kumaran, Invigilator Name: Mr. S Srinivas Kumar [Assistant Professor] 7993462416 (23 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 115A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst103: Essentials of Software Quality Assurance, IC Name: Dr. Giddaluri Nagendra Babu, Invigilator Name: Dr. Sankar K [Associate Professor] 9840683301 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 115B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst103: Essentials of Software Quality Assurance, IC Name: Dr. Giddaluri Nagendra Babu, Invigilator Name: Dr. Santhosh S [Assistant Professor] 7892058314 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 115C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst103: Essentials of Software Quality Assurance, IC Name: Dr. Giddaluri Nagendra Babu, Invigilator Name: Dr. Saravana Kumar R [Professor] 9894608731 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 116A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst103: Essentials of Software Quality Assurance, IC Name: Dr. Giddaluri Nagendra Babu, Invigilator Name: Mr. Shahad P [Assistant Professor] 9746448836 (18 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 116B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst87: Computer Vision and Image Processing, IC Name: Dr. Senthil Kumar, Invigilator Name: Dr. Shajahan B [Professor] 7010181930 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 116C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst87: Computer Vision and Image Processing, IC Name: Dr. Senthil Kumar, Invigilator Name: Mr. Shantha Kumar [Assistant Professor] 9886983449 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 125A (A: 30, B: 30), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst91: Cross Platform Application, IC Name: Dr. Vijayanand S, Invigilator Name: Ms. Shashikala H K [Assistant Professor] 9900685155 (01 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 127A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst87: Computer Vision and Image Processing, IC Name: Dr. Senthil Kumar, Invigilator Name: Ms Sheetal [Office Admin] 6362776036 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 127B (A: 34, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst87: Computer Vision and Image Processing, IC Name: Dr. Senthil Kumar, Invigilator Name: Dr. Shivam Swarup [Assistant Professor] 9425012195 (18 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 127C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst87: Computer Vision and Image Processing, IC Name: Dr. Senthil Kumar, Invigilator Name: Ms Shobha H R [Assistant Professor] 9353576414 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 202 (A: 32, B: 31), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst95: Cyber Risk Analysis, IC Name: Dr. Ravikumar Sethuraman, Invigilator Name: Dr. Somashekhara Reddy D [Assistant Professor] 6362448766 (32 Students)
+
+[Seat B]
+Tst132: Software Project Management, IC Name: Mr. S. Karthikeyan, Invigilator Name: Dr. Sowmya M S [Assistant Professor] 9986831624 (31 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 214A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst135: Spark for data science, IC Name: Dr. S Annamalai, Invigilator Name: Dr. Srinivasa Rao [Assistant Professor] 9985032966 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 214B (A: 32, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst132: Software Project Management, IC Name: Mr. S. Karthikeyan, Invigilator Name: Dr. Sujeet S. Jagtap [Assistant Professor] 8838539503 (32 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 214C (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst88: Computer Vision, IC Name: Dr. N. Satheesh, Invigilator Name: Dr. Sukumar [Professor] 9629673751 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 215A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst135: Spark for data science, IC Name: Dr. S Annamalai, Invigilator Name: Mrs Supriya Yadav D [Office Admin] 9738172914 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 215B (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst88: Computer Vision, IC Name: Dr. N. Satheesh, Invigilator Name: Dr. Suriya Prakash [Assistant Professor] 7349456210 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 215C (A: 33, B: 28), Planned Courses A: 2, B: 0 #Total: 2
+
+[Seat A]
+Tst139: UI/UX Design Principles, IC Name: Prof. Dr. Manjula, Invigilator Name: Dr. T. Sheik Yousuf [Associate Professor] 9944280680 (30 Students)
+Tst135: Spark for data science, IC Name: Dr. S Annamalai, Invigilator Name: Dr. Swati Gupta [Assistant Professor] 8218612032 (03 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst103: Essentials of Software Quality Assurance, IC Name: Dr. Giddaluri Nagendra Babu, Invigilator Name: Dr. Thiruvannamalai Sivasankar P [Professor] 9940336349 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 222A (A: 35, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst103: Essentials of Software Quality Assurance, IC Name: Dr. Giddaluri Nagendra Babu, Invigilator Name: Dr. V. Manikandan [Assistant Professor] 8248757875 (35 Students)
+
+[Seat B]
+Tst94: Cyber Threats and Attack Vectors, IC Name: Dr. B. Swaminathan, Invigilator Name: Mr Vaibhav Prabhakar Raibole [Assistant Professor] 9462833005 (09 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst103: Essentials of Software Quality Assurance, IC Name: Dr. Giddaluri Nagendra Babu, Invigilator Name: Dr. Vairavel [Assistant Professor] 9894844328 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 303 (A: 33, B: 26), Planned Courses A: 2, B: 0 #Total: 2
+
+[Seat A]
+Tst95: Cyber Risk Analysis, IC Name: Dr. Ravikumar Sethuraman, Invigilator Name: Mr Vijaykumar [Lab Instructor] 7904054093 (32 Students)
+Tst88: Computer Vision, IC Name: Dr. N. Satheesh, Invigilator Name: Mr Vasanth Ravi [Assistant Professor] 6369809175 (01 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 316A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst87: Computer Vision and Image Processing, IC Name: Dr. Senthil Kumar, Invigilator Name: Mr. Vinay M S [Lab Instructor] 9844394106 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst103: Essentials of Software Quality Assurance, IC Name: Dr. Giddaluri Nagendra Babu, Invigilator Name: Dr. A. Priyadharshini [Assistant Professor] 9025912352 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-2
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst103: Essentials of Software Quality Assurance, IC Name: Dr. Giddaluri Nagendra Babu, Invigilator Name: Dr Prasad P S [Professor] 9538002900 (38 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 101 (A: 31, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst41: Business communication and Value Science -3, IC Name: Prof. Monika Anand, Invigilator Name: Dr. A Suresh Kumar [Professor] 8438656467 (29 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 115A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Dr. Archana Sasi [Assistant Professor] 9400284847 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 115B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Dr. C Mahiba [Assistant Professor] 9865763084 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 115C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Dr. N Priya [Assistant Professor] 9944052990 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 116A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Dr. Santhosh Kumar Singh [Assistant Professor] 9035235491 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 116B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Dr. Shivkumar C [Assistant Professor] 8762417437 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 116C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Dr. Subhankar Ghosal [Assistant Professor] 94322 98596 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 127A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Dr. Sugumar Ramaiyan [Associate Professor] 9894982065 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 127B (A: 34, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Dr. Sunanda Das [Associate Professor] 8777731539 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 127C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Mrs. Sunena Rose M V [Assistant Professor] 7012375930 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 202 (A: 32, B: 31), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst67: Inferential Statistics, IC Name: Dr. Jayanth Kumar, Invigilator Name: Dr. Suresh Kallam [Professor] 8169325745 (32 Students)
+
+[Seat B]
+Tst41: Business communication and Value Science -3, IC Name: Prof. Monika Anand, Invigilator Name: Dr. A. Rajesh [Professor] 9629730168 (31 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 214A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Dr. A.Vijayakumar [Associate Professor] 9963963243 (11 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 214B (A: 32, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst67: Inferential Statistics, IC Name: Dr. Jayanth Kumar, Invigilator Name: Mr. Abhishek K S [Office Admin] 991619581 (03 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 214C (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst67: Inferential Statistics, IC Name: Dr. Jayanth Kumar, Invigilator Name: Mr. Abhishek M [Lab Instructor] 7795853548 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 215A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst67: Inferential Statistics, IC Name: Dr. Jayanth Kumar, Invigilator Name: Ms. Agashini [Assistant Professor] 9591051078 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 215B (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst67: Inferential Statistics, IC Name: Dr. Jayanth Kumar, Invigilator Name: Ms. Aishwarya R [Assistant Professor] 9535393751 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 215C (A: 33, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst67: Inferential Statistics, IC Name: Dr. Jayanth Kumar, Invigilator Name: Dr. Ajay Kumar Singh [Professor] 8791894008 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Ms. Ambili K N [Assistant Professor] 8129055842 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 222A (A: 35, B: 30), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Mr. Ananda V M [Lab Instructor] 9741524219 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Mr Anandhu. S [English] 8921148058 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 303 (A: 33, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst67: Inferential Statistics, IC Name: Dr. Jayanth Kumar, Invigilator Name: Dr. Anthoni Raj [Professor] 9894986474 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 316A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Dr. Balajee Alphonse [Assistant Professor] 9789278941 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Mr. Basavaraju D R [Assistant Professor] 9964724949 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-3
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst38: Business Communication and Storytelling, IC Name: Prof. Monika Anand, Invigilator Name: Mr. Chandra C [Lab Instructor] 8431229732 (38 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 101 (A: 31, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst120: IoT System Design, IC Name: Dr. M. Kumaresan, Invigilator Name: Dr. B. Swaminathan [Professor] 9444755536 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 110 (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst120: IoT System Design, IC Name: Dr. M. Kumaresan, Invigilator Name: Dr. Giddaluri Nagendra Babu [Associate Professor] 9885011772 (27 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 113A (A: 31, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst93: Cyber security and Risk Analysis, IC Name: Dr. Rajapraveen Kumar N, Invigilator Name: Dr. N. Satheesh [Professor] 9344278825 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 113B (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst122: IT Workshop Sky/Mat Lab, IC Name: Dr. S. Nagaraj, Invigilator Name: Dr. Ravikumar Sethuraman [Associate Professor] 9445778728 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 113C (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst122: IT Workshop Sky/Mat Lab, IC Name: Dr. S. Nagaraj, Invigilator Name: Dr. S Annamalai [Associate Professor] 9944907018 (23 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 115A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst104: Essentials of Internet of Things, IC Name: Dr. Somashekhara Reddy D, Invigilator Name: Mr. S. Karthikeyan [Assistant Professor] 9543277017 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 115B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst104: Essentials of Internet of Things, IC Name: Dr. Somashekhara Reddy D, Invigilator Name: Dr. Senthil Kumar [Associate Professor] 9343354882 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 115C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst104: Essentials of Internet of Things, IC Name: Dr. Somashekhara Reddy D, Invigilator Name: Dr. Vijayanand S [Assistant Professor] 9789357723 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 116A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst104: Essentials of Internet of Things, IC Name: Dr. Somashekhara Reddy D, Invigilator Name: Dr. Yogesh Kumaran [Assistant Professor] 9742022976 (18 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 116B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst98: Data Streaming and Analysis, IC Name: Dr. S Saravanakumar, Invigilator Name: Dr. Chandrasekar Venkatachalam [Professor) 9944224662 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 116C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst98: Data Streaming and Analysis, IC Name: Dr. S Saravanakumar, Invigilator Name: Mr. Chokklingam Vijaya Kumar [Lab Instructor] 7904054093 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 127A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst98: Data Streaming and Analysis, IC Name: Dr. S Saravanakumar, Invigilator Name: Dr. D Ramya Dorai [Associate Professor] 7010911900 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 127B (A: 34, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst98: Data Streaming and Analysis, IC Name: Dr. S Saravanakumar, Invigilator Name: Mr. Divyanshu Prakash [Assistant Professor] 6206947559 (18 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 127C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst98: Data Streaming and Analysis, IC Name: Dr. S Saravanakumar, Invigilator Name: Dr. Garima Sinha [Professor] 9557666611 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 202 (A: 32, B: 31), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst96: Cyber security Administration, IC Name: Mr. Aniruddha Prabhu B P, Invigilator Name: Ms Geetha Rani K [Assistant Professor] 9600535747 (32 Students)
+
+[Seat B]
+Tst133: Software Architecture and Design, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. Gowri Shankar J [Assistant professor] 9659517042 (31 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 214A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst86: Bigdata Analytics on cloud, IC Name: Dr. John Basha, Invigilator Name: Dr. Gowthul Alam M M [Professor] 9994393985 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 214B (A: 32, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst133: Software Architecture and Design, IC Name: Mr. Shantha Kumar, Invigilator Name: Dr. Guruvammal S. [Assistant Professor] 6381899859 (32 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 214C (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst130: Recommender Systems, IC Name: Dr. T. Sheik Yousuf, Invigilator Name: Dr. Harinee. S [Assistant Professor] 9500555739 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 215A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst86: Bigdata Analytics on cloud, IC Name: Dr. John Basha, Invigilator Name: Dr. Harpreet Kaur [Assistant Professor] 9041748954 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 215B (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst130: Recommender Systems, IC Name: Dr. T. Sheik Yousuf, Invigilator Name: Ms. Harshitha. B [Office Admin] 9886899433 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 215C (A: 33, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst86: Bigdata Analytics on cloud, IC Name: Dr. John Basha, Invigilator Name: Dr. I Ambika [Associate Professor] 9629580572 (03 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst104: Essentials of Internet of Things, IC Name: Dr. Somashekhara Reddy D, Invigilator Name: Dr. J Somasekar [Professor] 7348842635 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 222A (A: 35, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst104: Essentials of Internet of Things, IC Name: Dr. Somashekhara Reddy D, Invigilator Name: Dr. Janaki Kandasamy [Associate Professor] 9738322312 (35 Students)
+
+[Seat B]
+Tst93: Cyber security and Risk Analysis, IC Name: Dr. Rajapraveen Kumar N, Invigilator Name: Dr. Janarthanan Sekar [Assistant Professor] 9003459620 (09 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst104: Essentials of Internet of Things, IC Name: Dr. Somashekhara Reddy D, Invigilator Name: Dr. Jayashri Abhayakumar Inchal [Assistant Professor] 9449608066 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 303 (A: 33, B: 26), Planned Courses A: 2, B: 0 #Total: 2
+
+[Seat A]
+Tst96: Cyber security Administration, IC Name: Mr. Aniruddha Prabhu B P, Invigilator Name: Dr. Karthick Raghunath K M [Associate Professor] 9952445562 (32 Students)
+Tst130: Recommender Systems, IC Name: Dr. T. Sheik Yousuf, Invigilator Name: Dr. K S Arvind [Associate Professor] 9944323386 (01 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 316A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst98: Data Streaming and Analysis, IC Name: Dr. S Saravanakumar, Invigilator Name: Ms.Kavya K R [Office Admin] 9901379334 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst104: Essentials of Internet of Things, IC Name: Dr. Somashekhara Reddy D, Invigilator Name: Mr. Lanke Ravi Kumar [Assistant Professor] 7997009777 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 17-Sept-25, Slot-4
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst104: Essentials of Internet of Things, IC Name: Dr. Somashekhara Reddy D, Invigilator Name: Dr. M Sayee Kumar [Associate Professor] 7667444084 (38 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 101 (A: 31, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Mr. Aniruddha Prabhu B P [Assistant Professor] 8660608700 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 108 (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. Rajapraveen Kumar N [Associate Professor] 9000070888 (07 Students)
+
+[Seat B]
+Tst03: Cloud Security, IC Name: Dr. Ravikumar Sethuraman, Invigilator Name: Dr. A Suresh Kumar [Professor] 8438656467 (03 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 110 (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. Archana Sasi [Assistant Professor] 9400284847 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 113A (A: 31, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. B. Swaminathan [Professor] 9444755536 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 113B (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. C Mahiba [Assistant Professor] 9865763084 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 113C (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. Giddaluri Nagendra Babu [Associate Professor] 9885011772 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 115A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. John Basha [Assistant Professor] 9894674841 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 115B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. M. Kumaresan [Associate Professor] 9944350506 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 115C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. Mahesh TR [Associate Professor] 8310548920 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 116A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Mrs. Manasa S M [Lab Instructor] 8123322435 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 116B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. Manikandan P [Associate Professor] 9443636186 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 116C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. Manjula V. [Professor] 8197603006 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 125A (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst58: Disaster Recovery, IC Name: Dr. Harinee. S, Invigilator Name: Dr. Manujakshi B C [Associate Professor] 9900003022 (30 Students)
+
+[Seat B]
+Tst74: Machine Learning, IC Name: Ms. Aishwarya R, Invigilator Name: Mr Mir Junaid Rasool [Assistant Professor] 8825021631 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 125B (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst58: Disaster Recovery, IC Name: Dr. Harinee. S, Invigilator Name: Dr. Moin Hasan [Assistant Professor] 9569803220 (30 Students)
+
+[Seat B]
+Tst74: Machine Learning, IC Name: Ms. Aishwarya R, Invigilator Name: Dr. N Priya [Assistant Professor] 9944052990 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 126A (A: 30, B: 30), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst05: Computational Statistics, IC Name: Dr. Uday Kumar, Invigilator Name: Mr. N.Satish Babu [Office Admin] 8088760599 (30 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 126B (A: 30, B: 30), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst05: Computational Statistics, IC Name: Dr. Uday Kumar, Invigilator Name: Mr. Nagendra Rao [Lab Instructor] 9986586393 (27 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 127A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Mrs. Nisarga K S [Lab Instructor] 95356901267 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 127B (A: 34, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. Nishant Tripathi [Assistant Professor] 7084523614 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 127C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. Pajany M [Assistant Professor] 9486520800 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 202 (A: 32, B: 31), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. Panduranga Rao [Professor] 8073254459 (32 Students)
+
+[Seat B]
+Tst03: Cloud Security, IC Name: Dr. Ravikumar Sethuraman, Invigilator Name: Dr. Pathan Katheeja Khanam [Assistant Professor] 7674844036 (31 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 214A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr Prasad P S [Professor] 9538002900 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 214B (A: 32, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Mr Rajesh Pandian N [Assistant Professor] 9629593923 (32 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 214C (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. Rakesh Patra [Assistant Professor] 7008674648 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 215A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Ms. Rakshitha P B [Lab Instructor] 9535698752 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 215B (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Mrs. Ramya Muniyandi [Office Admin] 9841987485 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 215C (A: 33, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Ms. Ranjushree T S [Office Admin] 8296326371 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. Ravindra Raman Cholla [Assistant Professor] 9704007549 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 222A (A: 35, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. Renukadevi. P [Assistant Professor] 9865154751 (35 Students)
+
+[Seat B]
+Tst03: Cloud Security, IC Name: Dr. Ravikumar Sethuraman, Invigilator Name: Ms. Roopa Bai M [Lab Instructor] 9901712622 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. S Annamalai [Associate Professor] 9944907018 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 303 (A: 33, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. S Jerald Nirmal Kumar [Associate Professor] 9894774758 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 316A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. S Kanithan [Assistant Professor] 9894974001 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Mr. S. Karthikeyan [Assistant Professor] 9543277017 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-1
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst09: Discrete Mathematics and Graph Theory, IC Name: Dr. Siddesha M. S., Invigilator Name: Dr. S. Nagaraj [Associate Professor] 9943440560 (38 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 101 (A: 31, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst111: Elective-4 Wireless Security, IC Name: Dr. R. Vijayanand, Invigilator Name: Dr. S Prakash [Assitant Professor] 9791281837 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 108 (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst92: Cloud Data Engineer, IC Name: Dr. Vijayanand S, Invigilator Name: Dr. S Saravanakumar [Associate Professor] 9894115342 (24 Students)
+
+[Seat B]
+Tst118: Infrastructure Solution on Cloud, IC Name: Dr. V. Manikandan, Invigilator Name: Dr. Sankar K [Associate Professor] 9840683301 (20 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 110 (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst111: Elective-4 Wireless Security, IC Name: Dr. R. Vijayanand, Invigilator Name: Dr. Santhosh Kumar Singh [Assistant Professor] 9035235491 (19 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 113A (A: 31, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst85: Business Intelligence for IOT, IC Name: Dr. Srinivasa Rao, Invigilator Name: Dr. Santhosh S [Assistant Professor] 7892058314 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 113B (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst97: Data Modelling with NoSQL Databases, IC Name: Prof. Narasimhayya B. E., Invigilator Name: Dr. Senthil Kumar [Associate Professor] 9343354882 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 113C (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst97: Data Modelling with NoSQL Databases, IC Name: Prof. Narasimhayya B. E., Invigilator Name: Mr. Shahad P [Assistant Professor] 9746448836 (13 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 115A (A: 35, B: 28), Planned Courses A: 2, B: 0 #Total: 2
+
+[Seat A]
+Tst129: Recommender system, IC Name: Mr. Vivek Gupta, Invigilator Name: Mr. Shantha Kumar [Assistant Professor] 9886983449 (30 Students)
+Tst128: RestAPIs using Spring Boot Framework, IC Name: Mr. Lanke Ravi Kumar, Invigilator Name: Dr. Shajahan B [Professor] 7010181930 (05 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 115B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst107: Elective -4 - Speech Recognition and Converstational Systems, IC Name: Mr. S Srinivas Kumar, Invigilator Name: Ms. Shashikala H K [Assistant Professor] 9900685155 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 115C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst107: Elective -4 - Speech Recognition and Converstational Systems, IC Name: Mr. S Srinivas Kumar, Invigilator Name: Ms Sheetal [Office Admin] 6362776036 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 116A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst107: Elective -4 - Speech Recognition and Converstational Systems, IC Name: Mr. S Srinivas Kumar, Invigilator Name: Dr. Shivam Swarup [Assistant Professor] 9425012195 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 116B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst107: Elective -4 - Speech Recognition and Converstational Systems, IC Name: Mr. S Srinivas Kumar, Invigilator Name: Dr. Shivkumar C [Assistant Professor] 8762417437 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 116C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst107: Elective -4 - Speech Recognition and Converstational Systems, IC Name: Mr. S Srinivas Kumar, Invigilator Name: Ms Shobha H R [Assistant Professor] 9353576414 (23 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 125A (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst89: Containers and Dockers, IC Name: Dr. Ramesh Babu J, Invigilator Name: Dr. Somashekhara Reddy D [Assistant Professor] 6362448766 (20 Students)
+
+[Seat B]
+Tst134: Smart Contracts, IC Name: Dr. Preeti Gupta, Invigilator Name: Dr. Sowmya M S [Assistant Professor] 9986831624 (19 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 125B (A: 30, B: 30), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst112: Elective-4 Applications of AI, IC Name: Mr Vasanth Ravi, Invigilator Name: Dr. Sugumar Ramaiyan [Associate Professor] 9894982065 (14 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 127A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst101: Data Analytics using SQL, IC Name: Dr. Subhankar Ghosal, Invigilator Name: Dr. Sujeet S. Jagtap [Assistant Professor] 8838539503 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 127B (A: 34, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst101: Data Analytics using SQL, IC Name: Dr. Subhankar Ghosal, Invigilator Name: Dr. Sukumar [Professor] 9629673751 (13 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 127C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst101: Data Analytics using SQL, IC Name: Dr. Subhankar Ghosal, Invigilator Name: Dr. Sunanda Das [Associate Professor] 8777731539 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 202 (A: 32, B: 31), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst117: Financial Management, IC Name: Mr. Saresh Kumar S., Invigilator Name: Mrs. Sunena Rose M V [Assistant Professor] 7012375930 (32 Students)
+
+[Seat B]
+Tst137: Service science and Service opearational management, IC Name: Dr. Sachin Pavithran A. P., Invigilator Name: Mrs Supriya Yadav D [Office Admin] 9738172914 (22 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 214A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst136: Social Medial Analytics, IC Name: Dr. Saravana Kumar R, Invigilator Name: Dr. Suresh Kallam [Professor] 8169325745 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 214B (A: 32, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst137: Service science and Service opearational management, IC Name: Dr. Sachin Pavithran A. P., Invigilator Name: Dr. Suriya Prakash [Assistant Professor] 7349456210 (32 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 214C (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst131: Reinforcement Learning, IC Name: Dr. N. Satheesh, Invigilator Name: Dr. Swati Gupta [Assistant Professor] 8218612032 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 215A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst136: Social Medial Analytics, IC Name: Dr. Saravana Kumar R, Invigilator Name: Dr. T. Sheik Yousuf [Associate Professor] 9944280680 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 215B (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst131: Reinforcement Learning, IC Name: Dr. N. Satheesh, Invigilator Name: Dr. Thiruvannamalai Sivasankar P [Professor] 9940336349 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 215C (A: 33, B: 28), Planned Courses A: 2, B: 0 #Total: 2
+
+[Seat A]
+Tst84: Advanced Android Application Development, IC Name: Dr. V. Manikandan, Invigilator Name: Dr. Vairavel [Assistant Professor] 9894844328 (27 Students)
+Tst136: Social Medial Analytics, IC Name: Dr. Saravana Kumar R, Invigilator Name: Mr Vaibhav Prabhakar Raibole [Assistant Professor] 9462833005 (03 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst128: RestAPIs using Spring Boot Framework, IC Name: Mr. Lanke Ravi Kumar, Invigilator Name: Mr Vijaykumar [Lab Instructor] 7904054093 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 222A (A: 35, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst128: RestAPIs using Spring Boot Framework, IC Name: Mr. Lanke Ravi Kumar, Invigilator Name: Mr. Vinay M S [Lab Instructor] 9844394106 (35 Students)
+
+[Seat B]
+Tst85: Business Intelligence for IOT, IC Name: Dr. Srinivasa Rao, Invigilator Name: Dr. Yogesh Kumaran [Assistant Professor] 9742022976 (08 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst128: RestAPIs using Spring Boot Framework, IC Name: Mr. Lanke Ravi Kumar, Invigilator Name: Dr. A. Priyadharshini [Assistant Professor] 9025912352 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 303 (A: 33, B: 26), Planned Courses A: 2, B: 0 #Total: 2
+
+[Seat A]
+Tst117: Financial Management, IC Name: Mr. Saresh Kumar S., Invigilator Name: Dr. A. Rajesh [Professor] 9629730168 (22 Students)
+Tst131: Reinforcement Learning, IC Name: Dr. N. Satheesh, Invigilator Name: Dr. A.Vijayakumar [Associate Professor] 9963963243 (01 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 316A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst101: Data Analytics using SQL, IC Name: Dr. Subhankar Ghosal, Invigilator Name: Mr. Abhishek K S [Office Admin] 991619581 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst128: RestAPIs using Spring Boot Framework, IC Name: Mr. Lanke Ravi Kumar, Invigilator Name: Mr. Abhishek M [Lab Instructor] 7795853548 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-2
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst128: RestAPIs using Spring Boot Framework, IC Name: Mr. Lanke Ravi Kumar, Invigilator Name: Ms. Agashini [Assistant Professor] 9591051078 (38 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 101 (A: 31, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst123: Introduction to Blockchain Technology, IC Name: Dr. Preeti Gupta, Invigilator Name: Mr. Vivek Gupta [Assistant Professor] 8737909973 (24 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 110 (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst119: Infrastructure Solution on Cloud, IC Name: Dr. Anthoni Raj, Invigilator Name: Mr. Aniruddha Prabhu B P [Assistant Professor] 8660608700 (20 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 113A (A: 31, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst110: Elective-5 Speech recognition, IC Name: Ms. Ambili K N, Invigilator Name: Dr. N. Satheesh [Professor] 9344278825 (14 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 113B (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst124: IT Governance  Risk and information security management, IC Name: Dr. T. V. Raman, Invigilator Name: Dr. R. Vijayanand [Associate Professor] 9025541417 (20 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 113C (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst114: Fog Computing, IC Name: Dr. Suresh Kallam, Invigilator Name: Dr. Rajapraveen Kumar N [Associate Professor] 9000070888 (19 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 115A (A: 35, B: 28), Planned Courses A: 2, B: 0 #Total: 2
+
+[Seat A]
+Tst100: Data Visualization using Tableau, IC Name: Dr. Gowthul Alam M M, Invigilator Name: Dr. Ramesh Babu J [Associate Professor] 7780544486 (13 Students)
+Tst115: Frontend Framework using Angular and React, IC Name: Mr Mir Junaid Rasool, Invigilator Name: Dr. Ravikumar Sethuraman [Associate Professor] 9445778728 (01 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 115B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst108: Elective -5 - ESG Analytics, IC Name: Dr. K S Arvind, Invigilator Name: Mr. S Srinivas Kumar [Assistant Professor] 7993462416 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 115C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst108: Elective -5 - ESG Analytics, IC Name: Dr. K S Arvind, Invigilator Name: Dr. Saravana Kumar R [Professor] 9894608731 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 116A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst108: Elective -5 - ESG Analytics, IC Name: Dr. K S Arvind, Invigilator Name: Dr. Srinivasa Rao [Assistant Professor] 9985032966 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 116B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst108: Elective -5 - ESG Analytics, IC Name: Dr. K S Arvind, Invigilator Name: Dr. Subhankar Ghosal [Assistant Professor] 94322 98596 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 116C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst108: Elective -5 - ESG Analytics, IC Name: Dr. K S Arvind, Invigilator Name: Dr. V. Manikandan [Assistant Professor] 8248757875 (23 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 127A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst100: Data Visualization using Tableau, IC Name: Dr. Gowthul Alam M M, Invigilator Name: Mr Vasanth Ravi [Assistant Professor] 6369809175 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 127B (A: 34, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst102: Deep Learning in Genomics, IC Name: Dr. Janaki Kandasamy, Invigilator Name: Dr. Vijayanand S [Assistant Professor] 9789357723 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 127C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst100: Data Visualization using Tableau, IC Name: Dr. Gowthul Alam M M, Invigilator Name: Dr. A Suresh Kumar [Professor] 8438656467 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 202 (A: 32, B: 31), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst126: Predictive Models in IOT using Machine Learning, IC Name: Ms Shobha H R, Invigilator Name: Ms. Aishwarya R [Assistant Professor] 9535393751 (06 Students)
+
+[Seat B]
+Tst125: Mobile game app development platforms, IC Name: Dr. Babasaheb Satpute, Invigilator Name: Dr. Ajay Kumar Singh [Professor] 8791894008 (27 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 214A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst102: Deep Learning in Genomics, IC Name: Dr. Janaki Kandasamy, Invigilator Name: Mr. Ananda V M [Lab Instructor] 9741524219 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 214B (A: 32, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst113: Geographical information systems GIS, IC Name: Dr. Rajanikanta Mohanty, Invigilator Name: Mr Anandhu. S [English] 8921148058 (30 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 214C (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst138: UI/UX Design Principles, IC Name: Dr. Janarthanan Sekar, Invigilator Name: Dr. Archana Sasi [Assistant Professor] 9400284847 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 215A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst109: Elective-5 Defensive Cyber Security Techniques, IC Name: Dr. Harinee. S, Invigilator Name: Dr. B. Swaminathan [Professor] 9444755536 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 215B (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst138: UI/UX Design Principles, IC Name: Dr. Janarthanan Sekar, Invigilator Name: Dr. Balajee Alphonse [Assistant Professor] 9789278941 (11 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 215C (A: 33, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst109: Elective-5 Defensive Cyber Security Techniques, IC Name: Dr. Harinee. S, Invigilator Name: Mr. Basavaraju D R [Assistant Professor] 9964724949 (16 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst115: Frontend Framework using Angular and React, IC Name: Mr Mir Junaid Rasool, Invigilator Name: Dr. C Mahiba [Assistant Professor] 9865763084 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 222A (A: 35, B: 30), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst115: Frontend Framework using Angular and React, IC Name: Mr Mir Junaid Rasool, Invigilator Name: Mr. Chandra C [Lab Instructor] 8431229732 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst115: Frontend Framework using Angular and React, IC Name: Mr Mir Junaid Rasool, Invigilator Name: Dr. Chandrasekar Venkatachalam [Professor) 9944224662 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 303 (A: 33, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst126: Predictive Models in IOT using Machine Learning, IC Name: Ms Shobha H R, Invigilator Name: Mr. Chokklingam Vijaya Kumar [Lab Instructor] 7904054093 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 316A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst100: Data Visualization using Tableau, IC Name: Dr. Gowthul Alam M M, Invigilator Name: Dr. D Ramya Dorai [Associate Professor] 7010911900 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst115: Frontend Framework using Angular and React, IC Name: Mr Mir Junaid Rasool, Invigilator Name: Mr. Divyanshu Prakash [Assistant Professor] 6206947559 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 18-Sept-25, Slot-4
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst115: Frontend Framework using Angular and React, IC Name: Mr Mir Junaid Rasool, Invigilator Name: Dr. Garima Sinha [Professor] 9557666611 (38 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 101 (A: 31, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Preeti Gupta [Assistant Professor] 9452955331 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 108 (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst15: Inferential Statistics, IC Name: Prof. Swapna Sangeetha, Invigilator Name: Mr. Vivek Gupta [Assistant Professor] 8737909973 (03 Students)
+
+[Seat B]
+Tst31: Software Engineering, IC Name: Dr. Santhosh Kumar Singh, Invigilator Name: Ms. Ambili K N [Assistant Professor] 8129055842 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 110 (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Mr. Aniruddha Prabhu B P [Assistant Professor] 8660608700 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 113A (A: 31, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Anthoni Raj [Professor] 9894986474 (11 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 113B (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Ms Geetha Rani K [Assistant Professor] 9600535747 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 113C (A: 31, B: 25), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Giddaluri Nagendra Babu [Associate Professor] 9885011772 (31 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 115A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Gowri Shankar J [Assistant professor] 9659517042 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 115B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Gowthul Alam M M [Professor] 9994393985 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 115C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Guruvammal S. [Assistant Professor] 6381899859 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 116A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Harinee. S [Assistant Professor] 9500555739 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 116B (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Harpreet Kaur [Assistant Professor] 9041748954 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 116C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Ms. Harshitha. B [Office Admin] 9886899433 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 125A (A: 30, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst31: Software Engineering, IC Name: Dr. Santhosh Kumar Singh, Invigilator Name: Dr. I Ambika [Associate Professor] 9629580572 (27 Students)
+
+[Seat B]
+Tst20: Introduction To Cryptography, IC Name: Dr. Shajahan B, Invigilator Name: Dr. J Somasekar [Professor] 7348842635 (27 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 127A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Janaki Kandasamy [Associate Professor] 9738322312 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 127B (A: 34, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Janarthanan Sekar [Assistant Professor] 9003459620 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 127C (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Jayashri Abhayakumar Inchal [Assistant Professor] 9449608066 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 202 (A: 32, B: 31), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. John Basha [Assistant Professor] 9894674841 (32 Students)
+
+[Seat B]
+Tst15: Inferential Statistics, IC Name: Prof. Swapna Sangeetha, Invigilator Name: Dr. K S Arvind [Associate Professor] 9944323386 (31 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 214A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Karthick Raghunath K M [Associate Professor] 9952445562 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 214B (A: 32, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Ms.Kavya K R [Office Admin] 9901379334 (32 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 214C (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Mr. Lanke Ravi Kumar [Assistant Professor] 7997009777 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 215A (A: 34, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. M. Kumaresan [Associate Professor] 9944350506 (34 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 215B (A: 33, B: 27), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. M Sayee Kumar [Associate Professor] 7667444084 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 215C (A: 33, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Mrs. Manasa S M [Lab Instructor] 8123322435 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Manikandan P [Associate Professor] 9443636186 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 222A (A: 35, B: 30), Planned Courses A: 1, B: 1 #Total: 2
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Manjula V. [Professor] 8197603006 (35 Students)
+
+[Seat B]
+Tst15: Inferential Statistics, IC Name: Prof. Swapna Sangeetha, Invigilator Name: Dr. Manujakshi B C [Associate Professor] 9900003022 (30 Students)
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Mr Mir Junaid Rasool [Assistant Professor] 8825021631 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 303 (A: 33, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. Moin Hasan [Assistant Professor] 9569803220 (33 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 316A (A: 35, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Dr. N. Satheesh [Professor] 9344278825 (35 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Mr. N.Satish Babu [Office Admin] 8088760599 (36 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-1
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst08: Database Management Systems, IC Name: Dr. Mahesh TR, Invigilator Name: Mr. Nagendra Rao [Lab Instructor] 9986586393 (38 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-2
+Room Number: 221B (A: 36, B: 24), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst105: Elective III:  Cryptology, IC Name: Dr. C Mahiba, Invigilator Name: Mrs. Nisarga K S [Lab Instructor] 95356901267 (24 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-2
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst127: Penetration Testing, IC Name: Dr. N Priya, Invigilator Name: Dr. Nishant Tripathi [Assistant Professor] 7084523614 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-2
+Room Number: 316B (A: 36, B: 29), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst116: GenAI, IC Name: Dr. S. Nagaraj, Invigilator Name: Dr. Pajany M [Assistant Professor] 9486520800 (30 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-2
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst127: Penetration Testing, IC Name: Dr. N Priya, Invigilator Name: Dr. Panduranga Rao [Professor] 8073254459 (25 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-4
+Room Number: 222B (A: 39, B: 26), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst106: Elective  IV:  Advanced Social Text and Media Analytics, IC Name: Dr. Santhosh Kumar Singh, Invigilator Name: Dr. Mahesh TR [Associate Professor] 8310548920 (39 Students)
+
+[Seat B]
+-------------------------------------------
+
+-------------------------------------------
+Date: 19-Sept-25, Slot-4
+Room Number: 327B (A: 38, B: 28), Planned Courses A: 1, B: 0 #Total: 1
+
+[Seat A]
+Tst106: Elective  IV:  Advanced Social Text and Media Analytics, IC Name: Dr. Santhosh Kumar Singh, Invigilator Name: Dr. N Priya [Assistant Professor] 9944052990 (15 Students)
+
+[Seat B]
+-------------------------------------------

@@ -1,0 +1,141 @@
+sNo,Course-Code,Course-Name,Semester,Single/Multi-0/1,Common for Programs,Course-Coordinator-Name,Contact-No,RoomNumber,CabinNumber,Email-ID,Test-Date,Test-Slot
+Tst06,23CSE302,Computer Organisation and Architecture,3,1,"SE, AI-DevOPS, IOT, AI, DS, CTIS/CTMA, BlockchainTech, CPS",Mr. Basavaraju D R,9964724949,213,3,dr.basavaraju@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst13,23CSBS301,Formal Languages and Automat Theory,3,0,CSBS,Dr. Thiruvannamalai Sivasankar P,9940336349,325,1,tp.sivasankar@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst22,23CSE313,Machine Learning,3,1,"AIDE, AI/ML",Dr. Jayashri Abhayakumar Inchal,9449608066,227,10,jayashri.ai@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst25,23CSE311,Scripting for Hackers,3,0,CyberSecurity,Dr. A.Vijayakumar,9963963243,213,3,ak.vijay@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst35,22DSDE21,Artificial Intelligence,5,0,DS,Dr. Manikandan P,9443636186,213,8,p.manikandan@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst42,23SEDE11,Cloud Computing and Virtualization,5,0,SE,Dr. Anthoni Raj,9894986474,218,8,anthoniraj@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst46,23SEDE21,Communication Protocol,5,0,SE,Dr. Ramesh Babu J,7780544486,218,11,rameshbabu.j@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst54,23AIDE21,Data mining,5,0,AI,Dr. T. Sheik Yousuf,9944280680,218,2,sheikyousuf.t@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst55,22DSDE11,Data Visiualization using Tableau,5,0,DS,Dr. S Annamalai,9944907018,213,8,annamalai.s@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst60,23CSE506,Essentials of Machine Learning,5,1,"CSE-GEN, IOT",Dr. A.Vijayakumar,9963963243,213,3,ak.vijay@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst65,23CSE508,Fundamental of IoS Development in Swift,5,0,CTIS/CTMA,Dr. Karthik Ragunath,9952445562,226,12,karthick.km@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst70,24AIDE11,Image Processing,5,0,AI,Dr. Janaki Kandasamy,9738322312,218,3,K.janaki@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst71,23CSE511,Information Security,5,0,CTIS/CTMA,Dr. Rajapraveen Kumar N,9000070888,317,3,p.raja@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst72,23CSE150,Leadership and Negotiation Skills,5,1,"AIDE, AI/ML, CyberSecurity",Dr. Ebin,8606532070,227,12,ebin.pm@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst79,23CSBS501,S/W DESIGN with UML,5,0,CSBS,Dr. C Mahiba,9865763084,325,3,mahiba@jainuniversity.ac.in,15-Sept-25,Slot-1
+Tst01,23AIMLDE21,Applications of AI,3,0,AI/ML,Mr. Divyanshu Prakash,6206947559,227,12,divyanshu.p@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst02,23CSE306,Artificial Intelligence,3,1,"AI-DevOPS, AI",Dr. S Prakash,9791281837,325,10,Prakash.s@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst04,24CSE321,Communication Networks,3,0,IOT,Dr. M. Kumaresan,9944350506,213,2,m.kumaresan@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst07,24CSE320,Data Warehousing and Data Mining,3,0,DS,Dr. I Ambika,9629580572,317,13,ambika.i@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst10,23AIMLDE11,Elective -1 - IOT,3,0,AI/ML,Dr. Sukumar,9629673751,3,3,r.sukumar@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst11,23CSE314,Essentials of Big Data,3,0,AIDE,Dr. Rajanikanta Mohanty,7008871007,109,1,m.rajanikanta@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst14,23CSE305,Foundations of Cloud Computing,3,1,"CSE-GEN, BlockchainTech, CyberSecurity",Dr. S Jerald Nirmal Kumar,9894774758,226,6,jerald@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst19,24CSE318,Introduction to Cyber Physical Systems,3,0,CPS,Dr. Nishant Tripathi,7084523614,325,11,nishant.tripathi@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst32,23CSE503,Advanced Computer Networks,5,0,CSE-GEN,Dr. Suriya Prakash,7349456210,226,2,suriyaprakash.j@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst33,23CSE514,Advanced Machine Learning,5,1,"AI, AI/ML, DS",Dr. Guruvammal S.,9865811404,226,8,guruvammal.s@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst34,23CSE504,Agile Software Development,5,0,SE,Dr. Santhosh S,7892058314,217,1,s.santhosh@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst49,23CSE522,Cyber Risk Analysis,5,0,CyberSecurity,Ms. Ambili K N,8129055842,437,3,ambili.kn@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst51,23AIDEDE12,Domain Sepcific AI,5,0,AIDE,Dr. T. Sheik Yousuf,9944280680,218,2,sheikyousuf.t@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst62,23CSBS1K51,Essence of Indian Traditional Knowledge,5,0,CSBS,Prof. Aiswarya,9535393751,325,3,aishwarya.r@jainuniversity.ac.in ,15-Sept-25,Slot-3
+Tst63,23CSE510,Ethical Hacking,5,0,CTIS/CTMA,Dr. Vijayanand S,9025541417,437,2,vijayanand.s@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst73,23CSE512,Microprocessor and  Microcontrollers,5,0,IOT,Mr. Basavaraju D R,9964724949,213,3,dr.basavaraju@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst75,23CSE509,Mobile Computing,5,0,CTIS/CTMA,Dr. B. Swaminathan,9444755536,317,1,b.swaminathan@jainuniversity.ac.in,15-Sept-25,Slot-3
+Tst12,23CSE316,Essentials of Data Warehousing and Data Mining,3,1,"AIDE, AI/ML",Dr. M Sayee Kumar,7667444084,227,7,sayeekumar.m@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst17,23CSDE21,Introduction to AI and ML,3,0,CyberSecurity,Mr Vasanth Ravi,6369809175,437,2,vasanth.ravi@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst18,24CSE324,Introduction to Blockchain Technology,3,0,BlockchainTech,Dr. N Priya,9944052990,325,8,priya.n@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst21,23CSDE11,Network Defence,3,0,CyberSecurity,Dr. Harinee. S,9500555739,437,3,harinee.s@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst26,23CSE303,Software Engineering,3,1,"SE, CPS, IOT, CSE-GEN, AI, DS, CTIS/CTMA",Mr. Shantha Kumar,9886983449,218,11,k.shantha@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst27,24CSE322,Software engineering and project management,3,0,AI-DevOPS,Mr Vaibhav Prabhakar Raibole,9462833005,325,11,vaibhav.pr@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst30,23CSBS302,Computer Organisation and Architecture,3,0,CSBS,Dr. S. Nagaraj,9943440560,325,2,nagaraj.set@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst37,23CSE513,Bigdata Analytics,5,1,"AIDE, DS, AIDE",Dr. Saravana Kumar R,9894608731,213,5,saravanakumar.r@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst44,23CSBS503,Cloud Computing,5,0,CSBS,Dr. Uday Kumar Singh,8390581268,325,5,udaykumar.singh@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst52,23IOTDE11,Data warehousing and data mining,5,0,IOT,Dr. Srinivasa Rao,9985032966,213,4,srinivasa.p@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst56,23CSE520,Digital Forensics,5,0,CyberSecurity,Mr Vasanth Ravi,6369809175,437,2,vasanth.ravi@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst64,23CSE505,Fundamentals of Artificial Intelligence,5,0,CSE-GEN,Dr. Balajee Alphonse,9789278941,226,4,balajee.a@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst68,23IOTDE21,IOT Platform Design,5,0,IOT,Prof. Uday Prasad,9177365767,213,4,udayagiri.p@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst69,23CSE518,Industrial AI,5,0,AI,Mr. Narasimhayya B. E.,9538061042,218,4,e.narasimhayya@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst78,23CSE502,Software Testing,5,0,SE,Mr. Shantha Kumar,9886983449,218,11,k.shantha@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst80,23CSE507,Storage Management and Data Center,5,1,CTIS/CTMA,Dr. V. Manikandan,8248757875,317,4,v.manikandan@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst82,23AIMLDE12,BLOCKCHAIN TECHNOLOGIES FOR DATA SCIENCE,5,0,AI/ML,Dr. Sugumar Ramaiyan,9894982065,227,3,sugumar.ramaiyan@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst83,23AIMLDE22,REINFORCEMENT LEARNING,5,0,AI/ML,Dr. Swati Gupta,8218612032,227,5,Swati.gupta@jainuniversity.ac.in,16-Sept-25,Slot-1
+Tst140,22CSBS508,Usability Design Of Software Applications,7,0,CSBS,Ms. Aishwarya R,9535393751,325,3,aishwarya.r@jainuniversity.ac.in,16-Sept-25,Slot-2
+Tst16,23AIDEDE11,Intelligent Systems,3,0,AIDE,Dr. Panduranga Rao,8073254459,213,2,r.panduranga@jainuniversity.ac.in,16-Sept-25,Slot-3
+Tst28,23CSE310,Web Application Security,3,0,CyberSecurity,Dr. N Priya,9944052990,325,8,priya.n@jainuniversity.ac.in,16-Sept-25,Slot-3
+Tst29,23CSE309,Internet of Things,3,0,IOT,Dr. Suresh Kallam,8169325745,317,5,suresh.k@jainuniversity.ac.in,16-Sept-25,Slot-3
+Tst39,22HSS204,Business Communication and Presentation Skills,5,0,"SE, IOT",Prof. Monika Anand,9845559292,317,12,a.monika@jainuniversity.ac.in,16-Sept-25,Slot-3
+Tst45,23CSE226,Computer Vision and Image Processing,5,1,"AI/ML, AIDE",Dr. Sugumar Ramaiyan,9894982065,227,3,sugumar.ramaiyan@jainuniversity.ac.in,16-Sept-25,Slot-3
+Tst50,23CSDE12,Cryptography,5,0,CyberSecurity,Dr. Vijayanand,9789357723,317,3,vijayanand.r@jainuniversity.ac.in,16-Sept-25,Slot-3
+Tst59,23CSDE22,Data Analytics and Machine Learning for Cyber security  Elective-2,5,0,CyberSecurity,Dr. Sunanda Das,8777731539,437,6,sunanda.das@jainuniversity.ac.in,16-Sept-25,Slot-3
+Tst66,23CSBSMS51,Funtamentals of Management,5,0,CSBS,Dr. Sachin Pavithran A. P.,9995859509,109,2,p.sachin@jainuniversity.ac.in,16-Sept-25,Slot-3
+Tst76,24CSE542,Natural Language Processing,5,0,AI,Mrs. Sunena Rose M V,7012375930,218,3,sunenarose.mv@jainuniversity.ac.in,16-Sept-25,Slot-3
+Tst77,23CSE516,Python for Data Science,5,0,DS,Dr. I Ambika,9629580572,317,12,ambika.i@jainuniversity.ac.in,16-Sept-25,Slot-3
+Tst23,23CSBS303,Object Oriented Programming,3,0,CSBS,Dr. C Mahiba,9865763084,325,3,mahiba@jainuniversity.ac.in,17-Sept-25,Slot-1
+Tst24,23CSE301,Operating Systems,3,1,"SE, CPS, AI-DevOPS, AIDE, IOT, CSE-GEN, AI, AI/ML, DS, CTIS/CTMA, BlockchainTech, CyberSecurity",Dr. Sonal Sharma,9829173838,317,13,s.sonal@jainuniversity.ac.in,17-Sept-25,Slot-1
+Tst36,23CSEDE11,Backend Programming,5,0,CSE-GEN,Dr. Subhankar Ghosal,9432298596,226,1,subhankar.ghosal@jainuniversity.ac.in,17-Sept-25,Slot-1
+Tst40,23CSBSDE513,Business Strategy,5,0,CSBS,Dr. Saresh Kumar,9567095166,109,2,sareshkumar@jainuniversity.ac.in,17-Sept-25,Slot-1
+Tst47,23CSBSDE511,Conversastional System,5,0,CSBS,Dr. Santhosh Kumar Singh,9035235491,325,2,santhoshkumar.s@jainuniversity.ac.in,17-Sept-25,Slot-1
+Tst48,23CSE515,Cloud Computing and Virtualization,5,0,DS,Dr. A Suresh Kumar,8438656467,213,6,sureshkumar.a@jainuniversity.ac.in,17-Sept-25,Slot-1
+Tst53,23CSEDE21,Data modelling with NOSQL Database,5,0,CSE-GEN,Dr. Shivkumar C,8762417437,226,6,k.shiva@jainuniversity.ac.in,17-Sept-25,Slot-1
+Tst57,23CSE521,Data Protection and Data Security,5,0,CyberSecurity,Mr. Aniruddha Prabhu B P,8660608700,437,4,aniruddha.bp@jainuniversity.ac.in,17-Sept-25,Slot-1
+Tst61,23CSE116,Essentials of Deep Learning,5,1,"AIDE, AI/ML",Dr. Archana Sasi,9400284847,227,5,archana.sasi@jainuniversity.ac.in,17-Sept-25,Slot-1
+Tst81,23CTISDE512,Essentials of Big Data Analytics,5,0,CTIS/CTMA,Dr. Rajapraveen Kumar N,9000070888,317,3,p.raja@jainuniversity.ac.in,17-Sept-25,Slot-1
+Tst103,22CSE349,Essentials of Software Quality Assurance,7,0,CSE-GEN,Dr. Giddaluri Nagendra Babu,9885011772,226,10,nagendrababu@jainuniversity.ac.in,17-Sept-25,Slot-2
+Tst121,22CSBS114,IT Project Management,7,0,CSBS,Dr. Yogesh Kumaran,9742022976,4,3,yogesh.ks@jainuniversity.ac.in,17-Sept-25,Slot-2
+Tst132,22CSE503,Software Project Management,7,0,SE,Mr. S. Karthikeyan,9543277017,218,9,s.karthikeyan@jainuniversity.ac.in,17-Sept-25,Slot-2
+Tst135,22CSE325,Spark for data science,7,0,DS,Dr. S Annamalai,9944907018,213,8,annamalai.s@jainuniversity.ac.in,17-Sept-25,Slot-2
+Tst139,22CSE331,UI/UX Design Principles,7,0,CTIS/CTMA,Prof. Dr. Manjula,8197603006,325,4,manjula.v@jainuniversity.ac.in,17-Sept-25,Slot-2
+Tst87,22CSE226,Computer Vision and Image Processing,7,1,"AIDE, AI/ML",Dr. Senthil Kumar,9343354882,227,3,senthil.kumar@jainuniversity.ac.in,17-Sept-25,Slot-2
+Tst88,22CSE225,Computer Vision,7,0,AI,Dr. N. Satheesh,9344278825,218,2,satheesh.n@jainuniversity.ac.in,17-Sept-25,Slot-2
+Tst90,22CSE222,Communication Protocol,7,0,IOT,Dr. N. Vikram,9490620406,213,10,vikram.n@jainuniversity.ac.in,17-Sept-25,Slot-2
+Tst91,22CSE228,Cross Platform Application ,7,0,CTIS/CTMA,Dr. Vijayanand S,9789357723,317,3,vijayanand.s@jainuniversity.ac.in,17-Sept-25,Slot-2
+Tst94,22CSE236,Cyber Threats and Attack Vectors,7,0,CTIS/CTMA,Dr. B. Swaminathan,9444755536,317,1,b.swaminathan@jainuniversity.ac.in,17-Sept-25,Slot-2
+Tst95,22CSE508,Cyber Risk Analysis,7,0,CyberSecurity,Dr. Ravikumar Sethuraman,9445778728,437,4,ravikumar.sethuraman@jainuniversity.ac.in,17-Sept-25,Slot-2
+Tst38,22HSS101,Business Communication and Storytelling,5,1,"AI/ML, CyberSecurity, CSE-GEN",Prof. Monika Anand,9845559292,317,12,a.monika@jainuniversity.ac.in,17-Sept-25,Slot-3
+Tst41,23CSBSHS51,Business communication and Value Science -3,5,0,CSBS,Prof. Monika Anand,9845559292,317,12,a.monika@jainuniversity.ac.in,17-Sept-25,Slot-3
+Tst43,23CSE517,Cloud Computing and Virtualization,5,0,AIDE,Mr. Vivek Gupta,8737909973,109,2,vivek.g@jainuniversity.ac.in,17-Sept-25,Slot-3
+Tst67,23BSCSMA51,Inferential Statistics,5,1,"AI, CTIS/CTMA, DS",Dr. Jayanth Kumar,8680898520,317,8,jayanth@jainuniversity.ac.in,17-Sept-25,Slot-3
+Tst104,22CSE517,Essentials of Internet of Things,7,0,CSE-GEN,Dr. Somashekhara Reddy D,6362448766,226,1,r.somashekar@jainuniversity.ac.in,17-Sept-25,Slot-4
+Tst120,22CSE555,IoT System Design,7,0,IOT,Dr. M. Kumaresan,9944350506,213,2,m.kumaresan@jainuniversity.ac.in,17-Sept-25,Slot-4
+Tst122,2CSBS115,IT Workshop Sky/Mat Lab ,7,0,CSBS,Dr. S. Nagaraj,9943440560,325,2,nagaraj.set@jainuniversity.ac.in,17-Sept-25,Slot-4
+Tst130,22CSE562,Recommender Systems,7,0,AI,Dr. T. Sheik Yousuf,9944280680,218,2,sheikyousuf.t@jainuniversity.ac.in,17-Sept-25,Slot-4
+Tst133,22CSE572,Software Architecture and Design,7,0,SE,Mr. Shantha Kumar,9886983449,218,11,k.shantha@jainuniversity.ac.in,17-Sept-25,Slot-4
+Tst86,22DSDE15,Bigdata Analytics on cloud,7,0,DS,Dr. John Basha,9894674841,213,7,mj.basha@jainuniversity.ac.in,17-Sept-25,Slot-4
+Tst93,22CSE588,Cyber security and Risk Analysis,7,0,CTIS/CTMA,Dr. Rajapraveen Kumar N,9000070888,317,3,p.raja@jainuniversity.ac.in,17-Sept-25,Slot-4
+Tst96,22CSE509,Cyber security Administration,7,0,CyberSecurity,Mr. Aniruddha Prabhu B P,8660608700,437,4,aniruddha.bp@jainuniversity.ac.in,17-Sept-25,Slot-4
+Tst98,22CSE544,Data Streaming and Analysis,7,1,"AIDE, AI/ML",Dr. S Saravanakumar,9894608731,213,5,s.saravanakumar@jainuniversity.ac.in,17-Sept-25,Slot-4
+Tst03,23CSE312,Cloud Security,3,0,CyberSecurity,Dr. Ravikumar Sethuraman,9445778728,437,4,ravikumar.sethuraman@jainuniversity.ac.in,18-Sept-25,Slot-1
+Tst05,23CSBS304,Computational Statistics ,3,0,CSBS,Dr. Uday Kumar,8390581268,325,5,udaykumar.singh@jainuniversity.ac.in,18-Sept-25,Slot-1
+Tst09,23BSCSMA31,Discrete Mathematics and Graph Theory,3,1,"SE, CPS, AIDE, IOT, DS, CSE-GEN, AI, AI/ML, CTIS/CTMA, CyberSecurity, BlockchainTech",Dr. Siddesha M. S.,7760012007,323,11,m.siddesh@jainuniversity.ac.in,18-Sept-25,Slot-1
+Tst58,23CSE523,Disaster Recovery,5,0,CyberSecurity,Dr. Harinee. S,9500555739,437,3,harinee.s@jainuniversity.ac.in,18-Sept-25,Slot-1
+Tst74,23CSBS502,Machine Learning,5,0,CSBS,Ms. Aishwarya R,9535393751,325,3,aishwarya.r@jainuniversity.ac.in,18-Sept-25,Slot-1
+Tst101,22CSEDE24,Data Analytics using SQL,7,0,CSE-GEN,Dr. Subhankar Ghosal,9432298596,226,1,subhankar.ghosal@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst107,22AIMLDE24,Elective -4 - Speech Recognition and Converstational Systems,7,0,AI/ML,Mr. S Srinivas Kumar,7993462416,218,13,srinivaskumar.s@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst111,22CSDE14,Elective-4 Wireless Security,7,0,CyberSecurity,Dr. R. Vijayanand,9025541417,437,2,vijayanand.r@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst112,22CSDE24,Elective-4 Applications of AI,7,0,CyberSecurity,Mr Vasanth Ravi,6369809175,437,2,vasanth.ravi@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst117,22CSBS218,Financial Management,7,0,CSBS,Mr. Saresh Kumar S.,9567095166,109,2,sareshkumar@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst118,22CTISDE741,Infrastructure Solution on Cloud,7,0,CTIS/CTMA,Dr. V. Manikandan,8248757875,317,4,v.manikandan@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst128,22CSEDE14,RestAPIs using Spring Boot Framework,7,0,CSE-GEN,Mr. Lanke Ravi Kumar,7997009777,226,12,ravikumar.l@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst129,22AIDEDE14,Recommender system,7,0,AIDE,Mr. Vivek Gupta,8737909973,109,2,vivek.g@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst131,22AIDE34,Reinforcement Learning,7,0,AI,Dr. N. Satheesh,9344278825,218,2,satheesh.n@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst134,22IOTDE24,Smart Contracts,7,0,IOT,Dr. Preeti Gupta,9452955331,317,6,preeti.gupta@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst136,22DSDE14,Social Medial Analytics,7,0,DS,Dr. Saravana Kumar R,9894115342,213,5,saravanakumar.r@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst137,22CSBS506,Service science and Service opearational management,7,0,CSBS,Dr. Sachin Pavithran A. P.,9995859509,109,2,p.sachin@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst84,22CTMADE741,Advanced Android Application Development ,7,1,CTIS/CTMA,Dr. V. Manikandan,8248757875,317,4,v.manikandan@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst85,22IOTDE14,Business Intelligence for IOT,7,0,IOT,Dr. Srinivasa Rao,9985032966,213,4,srinivasa.p@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst89,22SEDE14,Containers and Dockers,7,0,SE,Dr. Ramesh Babu J,7780544486,218,11,rameshbabu.j@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst92,22CTMADE742,Cloud Data Engineer,7,1,CTIS/CTMA,Dr. Vijayanand S,9025541417,437,2,vijayanand.s@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst97,22SEDE24,Data Modelling with NoSQL Databases,7,0,SE,Prof. Narasimhayya B. E.,9538061042,218,4,e.narasimhayya@jainuniversity.ac.in,18-Sept-25,Slot-2
+Tst100,22CSEDE25,Data Visualization using Tableau,7,0,CSE-GEN,Dr. Gowthul Alam M M,9994393985,226,13,gowthul.alam@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst102,22AIDE35,Deep Learning in Genomics,7,0,AI,Dr. Janaki Kandasamy,9738322312,218,3,k.janaki@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst108,22AIMLDE25,Elective -5 - ESG Analytics,7,0,AI/ML,Dr. K S Arvind,9944323386,227,8,ks.arvind@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst109,22CSDE15,Elective-5 Defensive Cyber Security Techniques,7,0,CyberSecurity,Dr. Harinee. S,9500555739,437,3,harinee.s@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst110,22CSDE25,Elective-5 Speech recognition,7,0,CyberSecurity,Ms. Ambili K N,8129055842,437,3,ambili.kn@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst113,22AIDEDE35,Geographical information systems GIS,7,0,AIDE,Dr. Rajanikanta Mohanty,7008871007,109,1,m.rajanikanta@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst114,22IOTDE25,Fog Computing,7,0,IOT,Dr. Suresh Kallam,8169325745,317,5,suresh.k@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst115,22CSEDE15,Frontend Framework using Angular and React,7,0,CSE-GEN,Mr Mir Junaid Rasool,8825021631,226,11,junaidrasool@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst119,22SEDE15,Infrastructure Solution on Cloud,7,0,SE,Dr. Anthoni Raj,9894986474,218,8,anthoniraj@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst123,22CTMADE752,Introduction to Blockchain Technology,7,1,CTIS/CTMA,Dr. Preeti Gupta,9452955331,317,6,preeti.gupta@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst124,22CTISDE751,IT Governance  Risk and information security management,7,0,CTIS/CTMA,Dr. T. V. Raman,9704193051,317,4,tv.raman@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst125,22CTMADE751,Mobile game app development platforms,7,0,CTIS/CTMA,Dr. Babasaheb Satpute,9011392606,226,2,babasaheb.s@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst126,22IOTDE15,Predictive Models in IOT using Machine Learning,7,0,IOT,Ms Shobha H R,9353576414,213,1,shobha.hr@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst138,22SEDE25,UI/UX Design Principles,7,0,SE,Dr. Janarthanan Sekar,9003459620,218,8,janarthanan.sekar@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst99,22AIDEDE35,Geographical information systems GIS,7,0,AIDE,Dr. Rajanikanta Mohanty,7008871007,109,1,m.rajanikanta@jainuniversity.ac.in,18-Sept-25,Slot-4
+Tst08,23CSE304,Database Management Systems,3,1,"SE, CPS, AI-DevOPS, AIDE, IOT, CSE-GEN, AI, AI/ML, CTIS/CTMA, CyberSecurity",Dr. Mahesh TR,8310548920,226,6,t.mahesh@jainuniversity.ac.in,19-Sept-25,Slot-1
+Tst15,24BSCSMA32,Inferential Statistics,3,0,DS,Prof. Swapna Sangeetha,9964623111,323,10,swapna.sangeetha@jainuniversity.ac.in,19-Sept-25,Slot-1
+Tst20,24CSE323,Introduction To Cryptography,3,0,BlockchainTech,Dr. Shajahan B,7010181930,325,7,shajahan.b@jainuniversity.ac.in,19-Sept-25,Slot-1
+Tst31,23CSBS305,Software Engineering,3,0,CSBS,Dr. Santhosh Kumar Singh,9035235491,325,2,santhoshkumar.s@jainuniversity.ac.in,19-Sept-25,Slot-1
+Tst105,22CSBS211,Elective III:  Cryptology ,7,0,CSBS,Dr. C Mahiba,9865763084,325,3,mahiba@jainuniversity.ac.in,19-Sept-25,Slot-2
+Tst116,22CSBSE73,GenAI,7,0,CSBS,Dr. S. Nagaraj,9943440560,325,2,nagaraj.set@jainuniversity.ac.in,19-Sept-25,Slot-2
+Tst127,22CSE311,Penetration Testing,7,0,CyberSecurity,Dr. N Priya,9944052990,325,8,priya.n@jainuniversity.ac.in,19-Sept-25,Slot-2
+Tst106,22CSBS503,Elective  IV:  Advanced Social Text and Media Analytics,7,0,CSBS,Dr. Santhosh Kumar Singh,9035235491,325,2,santhoshkumar.s@jainuniversity.ac.in,19-Sept-25,Slot-4
