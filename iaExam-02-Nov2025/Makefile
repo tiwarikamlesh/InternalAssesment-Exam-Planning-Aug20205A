@@ -23,6 +23,9 @@ clean:
 	rm -f *.vrb
 	rm -f *.nav
 	rm -f *.snm
+	cp faculty_duties.pdf ./web/duty.pdf
+	cp schedule_sections.pdf ./web/scheduleFull.pdf
+	cp students_schedule.pdf ./web/studentSchedule.pdf
 	
 all:
 	python3 00-createStudentList.py
@@ -31,12 +34,16 @@ all:
 	python3 02b-onlyRegenerateExamDutyLatexReport.py
 	pdflatex faculty_duties.tex
 	pdflatex faculty_duties.tex
+	cp faculty_duties.pdf ./web/duty.pdf
 	python3 03-generateTestSchedule.py
 	pdflatex schedule_sections.tex
 	pdflatex schedule_sections.tex
+	cp schedule_sections.pdf ./web/scheduleFull.pdf
 	python3 04-studentSchedule.py
 	pdflatex students_schedule.tex
 	pdflatex students_schedule.tex
-	python3 05-attendanceSheet.py
+	cp students_schedule.pdf ./web/studentSchedule.pdf
+	python3 05-attendanceSheet.py 
 	pdflatex attendance_sheets.tex
 	pdflatex attendance_sheets.tex
+	python3 06-scheduleConflictReport-ifSameStudentHaveMultipleExamInSameSlot.py
