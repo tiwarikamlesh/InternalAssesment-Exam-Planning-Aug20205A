@@ -1,0 +1,163 @@
+Course student counts report
+========================================
+Files scanned: 18
+  assignments_20251110_Slot-1.csv, assignments_20251110_Slot-2.csv, assignments_20251110_Slot-3.csv, assignments_20251110_Slot-4.csv, assignments_20251111_Slot-1.csv, assignments_20251111_Slot-2.csv, assignments_20251111_Slot-3.csv, assignments_20251111_Slot-4.csv, assignments_20251112_Slot-1.csv, assignments_20251112_Slot-2.csv, assignments_20251112_Slot-3.csv, assignments_20251112_Slot-4.csv, assignments_20251113_Slot-1.csv, assignments_20251113_Slot-2.csv, assignments_20251113_Slot-3.csv, assignments_20251114_Slot-1.csv, assignments_20251114_Slot-2.csv, assignments_20251114_Slot-4.csv
+Total assignment rows scanned: 60354
+Rows with missing or empty sNo while USN present: 0
+
+sNo         Students  Course-Code   Semester  Course Name
+----------------------------------------------------------------------------------------------------
+Tst214          1477  25ESCS02      1         Data Structure Using C
+Tst24           1083  23CSE301      3         Operating Systems
+Tst09           1019  23BSCSMA31    3         Discrete Mathematics and Graph Theory
+Tst08            992  23CSE304      3         Database Management Systems
+Tst204           948  22HSS104      7         INDIAN CONSTITUTION
+Tst205           948  22HSS105      7         INTELLECTUAL PROPERTY RIGHTS
+Tst208           839  24HSS109      3         ECONOMICS FOR ENGINEERS
+Tst200           835  22HSS203      5         RESEARCH METHODOLOGY
+Tst26            643  23CSE303      3         Software Engineering
+Tst201           627  23JUGEHSS26   5         LAUNCHING AND MANAGING AN ENTERPRISE
+Tst207           601  22JUGEHSS33   7         SUSTAINABLE ENTREPRENEURSHIP
+Tst38            570  22HSS101      5         Business Communication and Storytelling
+Tst06            436  23CSE302      3         Computer Organisation and Architecture
+Tst33            385  23CSE514      5         Advanced Machine Learning
+Tst14            382  23CSE305      3         Foundations of Cloud Computing
+Tst103           353  22CSE349      7         Essentials of Software Quality Assurance
+Tst104           353  22CSE517      7         Essentials of Internet of Things
+Tst206           343  22JUGEHSS32   7         PRODUCT MANAGEMENT
+Tst72            329  23CSE150      5         Leadership and Negotiation Skills
+Tst60            323  23CSE506      5         Essentials of Machine Learning
+Tst12            292  23CSE316      3         Essentials of Data Warehousing and Data Mining
+Tst22            292  23CSE313      3         Machine Learning
+Tst202           288  23JUGEHSS38   5         CONSUMER BEHAVIOUR
+Tst45            269  23CSE226      5         Computer Vision and Image Processing
+Tst61            269  23CSE116      5         Essentials of Deep Learning
+Tst32            262  23CSE503      5         Advanced Computer Networks
+Tst64            262  23CSE505      5         Fundamentals of Artificial Intelligence
+Tst128           227  22CSEDE14     7         RestAPIs using Spring Boot Framework
+Tst115           223  22CSEDE15     7         Frontend Framework using Angular and React
+Tst01            218  23AIMLDE21    3         Applications of AI
+Tst87            201  22CSE226      7         Computer Vision and Image Processing
+Tst98            201  22CSE544      7         Data Streaming and Analysis
+Tst67            200  23BSCSMA51    5         Inferential Statistics
+Tst83            176  23AIMLDE22    5         REINFORCEMENT LEARNING
+Tst107           171  22AIMLDE24    7         Elective -4 - Speech Recognition and Converstational Systems
+Tst108           171  22AIMLDE25    7         Elective -5 - ESG Analytics
+Tst53            156  23CSEDE21     5         Data modelling with NOSQL Database
+Tst02            128  23CSE306      3         Artificial Intelligence
+Tst100           126  22CSEDE25     7         Data Visualization using Tableau
+Tst101           126  22CSEDE24     7         Data Analytics using SQL
+Tst39            125  22HSS204      5         Business Communication and Presentation Skills
+Tst36            106  23CSEDE11     5         Backend Programming
+Tst37             87  23CSE513      5         Bigdata Analytics
+Tst82             72  23AIMLDE12    5         BLOCKCHAIN TECHNOLOGIES FOR DATA SCIENCE
+Tst135            71  22CSE325      7         Spark for data science
+Tst136            71  22DSDE14      7         Social Medial Analytics
+Tst69             71  23CSE518      5         Industrial AI
+Tst76             71  24CSE542      5         Natural Language Processing
+Tst86             71  22DSDE15      7         Bigdata Analytics on cloud
+Tst102            67  22AIDE35      7         Deep Learning in Genomics
+Tst130            67  22CSE562      7         Recommender Systems
+Tst131            67  22AIDE34      7         Reinforcement Learning
+Tst88             67  22CSE225      7         Computer Vision
+Tst48             66  23CSE515      5         Cloud Computing and Virtualization
+Tst77             66  23CSE516      5         Python for Data Science
+Tst03             64  23CSE312      3         Cloud Security
+Tst07             64  24CSE320      3         Data Warehousing and Data Mining
+Tst127            64  22CSE311      7         Pen Testing
+Tst15             64  24BSCSMA32    3         Inferential Statistics
+Tst25             64  23CSE311      3         Scripting for Hackers
+Tst28             64  23CSE310      3         Web Application Security
+Tst34             64  23CSE504      5         Agile Software Development
+Tst78             64  23CSE502      5         Software Testing
+Tst95             64  22CSE508      7         Cyber Risk Analysis
+Tst96             64  22CSE509      7         Cyber security Administration
+Tst132            63  22CSE503      7         Software Project Management
+Tst133            63  22CSE572      7         Software Architecture and Design
+Tst81             63  23CTISDE512   5         Essentials of Big Data Analytics
+Tst80             62  23CSE507      5         Storage Management and Data Center
+Tst73             61  23CSE512      5         Microprocessor and  Microcontrollers
+Tst41             60  23CSBSHS51    5         Business communication and Value Science -3
+Tst44             60  23CSBS503     5         Cloud Computing
+Tst49             60  23CSE522      5         Cyber Risk Analysis
+Tst56             60  23CSE520      5         Digital Forensics
+Tst57             60  23CSE521      5         Data Protection and Data Security
+Tst58             60  23CSE523      5         Disaster Recovery
+Tst62             60  23CSBS1K51    5         Essence of Indian Traditional Knowledge
+Tst66             60  23CSBSMS51    5         Funtamentals of Management
+Tst74             60  23CSBS502     5         Machine Learning
+Tst79             60  23CSBS501     5         S/W DESIGN with UML
+Tst04             58  24CSE321      3         Communication Networks
+Tst120            58  22CSE555      7         IoT System Design
+Tst29             58  23CSE309      3         Internet of Things
+Tst90             58  22CSE222      7         Communication Protocol
+Tst05             57  23CSBS304     3         Computational Statistics
+Tst13             57  23CSBS301     3         Formal Languages and Automat Theory
+Tst203            57  23CSBSHS31    3         Indian Constitution
+Tst23             57  23CSBS303     3         Object Oriented Programming
+Tst27             57  24CSE322      3         Software engineering and project management
+Tst30             57  23CSBS302     3         Computer Organisation and Architecture
+Tst31             57  23CSBS305     3         Software Engineering
+Tst106            54  22CSBS503     7         Elective  IV:  Advanced Social Text and Media Analytics
+Tst117            54  22CSBS218     7         Financial Management
+Tst121            54  22CSBS114     7         IT Project Management
+Tst122            54  22CSBS115     7         IT Workshop Sky/Mat Lab
+Tst137            54  22CSBS506     7         Service science and Service opearational management
+Tst140            54  22CSBS508     7         Usability Design Of Software Applications
+Tst109            50  22CSDE15      7         Elective-5 Defensive Cyber Security Techniques
+Tst111            50  22CSDE14      7         Elective-4 Wireless Security
+Tst21             49  23CSDE11      3         Network Defence
+Tst11             48  23CSE314      3         Essentials of Big Data
+Tst16             48  23AIDEDE11    3         Intelligent Systems
+Tst50             45  23CSDE12      5         Cryptography
+Tst138            44  22SEDE25      7         UI/UX Design Principles
+Tst97             44  22SEDE24      7         Data Modelling with NoSQL Databases
+Tst93             40  22CSE588      7         Cyber security and Risk Analysis
+Tst94             40  22CSE236      7         Cyber Threats and Attack Vectors
+Tst126            39  22IOTDE15     7         Predictive Models in IOT using Machine Learning
+Tst47             39  23CSBSDE511   5         Conversastional System
+Tst85             39  22IOTDE14     7         Business Intelligence for IOT
+Tst42             37  23SEDE11      5         Cloud Computing and Virtualization
+Tst54             36  23AIDE21      5         Data mining
+Tst55             35  22DSDE11      5         Data Visiualization using Tableau
+Tst70             35  24AIDE11      5         Image Processing
+Tst52             34  23IOTDE11     5         Data warehousing and data mining
+Tst63             34  23CSE510      5         Ethical Hacking
+Tst71             34  23CSE511      5         Information Security
+Tst19             32  24CSE318      3         Introduction to Cyber Physical Systems
+Tst139            31  22CSE331      7         UI/UX Design Principles
+Tst210            31  24MTSCSEDE65  3         Distributed DBMS
+Tst35             31  22DSDE21      5         Artificial Intelligence
+Tst91             31  22CSE228      7         Cross Platform Application
+Tst113            30  22AIDEDE35    7         Geographical information systems GIS
+Tst116            30  22CSBSE73     7         GenAI
+Tst129            30  22AIDEDE14    7         Recommender system
+Tst212            30  21JUOE1101    3         FINANCE FOR NON- FINANCE PROFESSIONALS
+Tst65             29  23CSE508      5         Fundamental of IoS Development in Swift
+Tst75             29  23CSE509      5         Mobile Computing
+Tst125            27  22CTMADE751   7         Mobile game app development platforms
+Tst18             27  24CSE324      3         Introduction to Blockchain Technology
+Tst20             27  24CSE323      3         Introduction To Cryptography
+Tst46             27  23SEDE21      5         Communication Protocol
+Tst68             27  23IOTDE21     5         IOT Platform Design
+Tst84             27  22CTMADE741   7         Advanced Android Application Development
+Tst10             26  23AIMLDE11    3         Elective -1 - IOT
+Tst213            25  21JUOE0903    3         ENTREPRENEURSHIP
+Tst105            24  22CSBS211     7         Elective III:  Cryptology
+Tst123            24  22CTMADE752   7         Introduction to Blockchain Technology
+Tst209            24  24MTSCSEDE52  3         Prompt Engineering
+Tst92             24  22CTMADE742   7         Cloud Data Engineer
+Tst40             21  23CSBSDE513   5         Business Strategy
+Tst43             21  23CSE517      5         Cloud Computing and Virtualization
+Tst51             21  23AIDEDE12    5         Domain Sepcific AI
+Tst118            20  22CTISDE741   7         Infrastructure Solution on Cloud
+Tst119            20  22SEDE15      7         Infrastructure Solution on Cloud
+Tst124            20  22CTISDE751   7         IT Governance  Risk and information security management
+Tst89             20  22SEDE14      7         Containers and Dockers
+Tst114            19  22IOTDE25     7         Fog Computing
+Tst134            19  22IOTDE24     7         Smart Contracts
+Tst17             15  23CSDE21      3         Introduction to AI and ML
+Tst59             15  23CSDE22      5         Data Analytics and Machine Learning for Cyber security  Elective-2
+Tst110            14  22CSDE25      7         Elective-5 Speech recognition
+Tst112            14  22CSDE24      7         Elective-4 Applications of AI
+Tst211             7  24MTSCSEDE51  3         Software Reliability
